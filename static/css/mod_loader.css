@@ -1,0 +1,346 @@
+.overlay_scr {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 85%;
+    background: linear-gradient(180deg, rgba(186, 0, 0, 0.543), rgba(0, 0, 0, 0.418));
+    z-index: 9999;
+    border: solid 3px black;
+    text-align: center;
+    transition: all 0.3s;
+    border-radius: 25px 25px 0 0;
+}
+
+.tab-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #b80000;
+    border-radius: 25px 25px 0 0;
+}
+.tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: solid 2px black;
+    width: 45%;
+    text-align: center;
+    font-weight: bolder;
+    transition: all 0.2s;
+    border-radius: 20px 20px 0 0;
+    background-color: #300000;
+    color: white;
+}
+
+.tab.active {
+    background-color: #6b0000;
+    box-shadow: inset 0 -2px 0 #ffffff;
+}
+
+.tab:hover, #submitMod:hover {
+    background-color: #6b0000;
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+}
+
+#submitMod {
+    position: absolute;
+    bottom: 0;
+    background-color: #b80000;
+    cursor: pointer;
+    border: solid 2px black;
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    height: 50px;
+    font-size: larger;
+    transition: all 0.2s;
+}
+
+.dropdown_menu_cont {
+    background-color: #190202;
+    color: white;
+    width:100%;
+    height: 100px;
+    border-top: solid 2px white;
+    border-bottom: solid 2px white;
+    padding-top: 3px;
+}
+
+.overlay_tab {
+    background-color: #190202;
+    color: white;
+    width: 80%;
+    height: 60%;
+    border: solid 2px white;
+    text-align: center;
+    position: absolute;
+    right: 50%;
+    top: 57.5%;
+    transform: translate(50%, -50%);
+    border-radius: 40px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* restore clipping of children */
+    box-sizing: border-box;
+}
+
+.overlay_tab_inner {
+    flex: 1;
+    overflow-y: auto;
+    border-radius: 36px;
+    margin: 4px;
+    padding: 12px;
+    scrollbar-color: #f70404 #350000;
+    scrollbar-width: thin;
+    box-sizing: border-box;
+}
+
+/* Webkit scrollbar styling */
+.overlay_tab_inner::-webkit-scrollbar {
+  width: 8px;
+}
+
+.overlay_tab_inner::-webkit-scrollbar-track {
+  background: #350000;
+  border-radius: 4px;
+}
+
+.overlay_tab_inner::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #290000, #f72e46);
+  border-radius: 8px;
+  box-shadow: 0 0 4px #f70404;
+  border: 2px solid #350000;
+}
+
+.overlay_tab_inner::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #ef4c4c, #340208);
+  box-shadow: 0 0 6px #f72e46;
+}
+
+
+#widgetsContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.widget {
+    background-color: #0e0000;
+    padding: 20px;
+    border: solid 2px #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+    border-radius: 20px;
+    transition: all 0.4s;
+}
+
+.widget:hover {
+    background-color: #340000;
+}
+
+.widget h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.widget span {
+    margin-top: 10px;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+.widget button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    border: solid 2px #ffffff;
+    background-color: #000000;
+    color: rgb(255, 220, 220);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.widget button:hover {
+    background-color: #3e0404;
+}
+
+.widget_image {
+    width: 50px;
+    height: 50px;
+    border: solid 2px;
+    margin-bottom: 5px;
+}
+
+.selected_widget .select-button {
+    background-color: white;
+    color: rgb(71, 0, 0);
+    border: solid 2px;
+}
+
+.selected_widget .select-button:hover {
+    background-color: rgb(144, 144, 144);
+    color: rgb(71, 0, 0);
+    border: solid 2px;
+}
+
+.mod_loader_overlay_block {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 5000;
+    cursor: pointer;
+}
+
+.fullscreen_toggle {
+    position: absolute;
+    right: 0px;
+    top: -30px;
+    transition: all 0.3s;
+}
+
+.down {
+    top: 80px;
+}
+
+.fullscreen {
+    width: 100%;
+    height: 100%;
+}
+
+#tagContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+#tagContainer label {
+    background: #2a0000;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    background-color: #0e0000;
+    color: white;
+    border: 1px solid #333;
+    padding: 10px;
+    font-family: monospace;
+    resize: vertical;
+}
+
+.overlay_scr textarea {
+    width: 200px;
+    height: 50px;
+    background-color: #0e0000;
+    color: white;
+    border: 1px solid #333;
+    padding: 10px;
+    font-family: monospace;
+    resize: vertical;
+}
+
+#searchInput, #modSelect, #custom_loader_input {
+    background-color: #1a0000;
+    color: white;
+    border: 1px solid #555;
+    padding: 6px 10px;
+    border-radius: 4px;
+}
+
+.widget_url_icon {
+    position: relative;
+    top: -10px;
+    right: -80%;
+    font-size: 14px;
+    cursor: pointer;
+    background: #000;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+    width: 20px;
+}
+
+.widget_url_icon:hover {
+    opacity: 1;
+    background: #3e0404;
+}
+
+.tooltip_wrap {
+    cursor: pointer;
+    font-size: 14px;
+    background: #000;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+}
+
+.tooltip_wrap:hover {
+    opacity: 1;
+    background: #3e0404;
+}
+
+.tooltip_text {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 8px;
+    position: absolute;
+    z-index: 1;
+    top: -55px;
+    right: 10px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 12px;
+    pointer-events: none;
+}
+
+.tooltip_wrap:hover .tooltip_text {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* State issue stuff because it's easier than a new file */
+
+
+.popup-content {
+    position: relative;
+    overflow-y: auto;
+    height: 185px;
+}
+
+.popup-content * {
+    margin-right: 10px;
+}
+
+.overlay_tab_i p {
+    font-weight: normal !important;
+    text-align: left !important;
+    margin-left: 10px !important;
+}
+
+.overlay_tab_i h3 {
+    font-style: italic;
+}
+
+.overlay_tab_i .stance_desc {
+    margin-left: 20px !important;
+}

@@ -1,0 +1,2533 @@
+[
+    {
+      "label": "Other",
+      "value": "other",
+      "tags": [
+        "historical",
+        "state",
+        "international",
+        "althist"
+      ]
+    },
+    {
+      "label": "36 – 64 AD: The Apostle to the Gentiles",
+      "value": "0036 – 0064 AD The Apostle to the Gentiles",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/Paul.png"
+    },
+    {
+      "label": "1498 Florence",
+      "value": "1498 Florence",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/1498.png"
+    },
+    {
+      "label": "Declaration: 1776",
+      "value": "1776",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1792: The Young Republic",
+      "value": "1792",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1792.png"
+    },
+    {
+      "label": "1793 - Alternate North American Revolution",
+      "value": "1793",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1796: The First of Many",
+      "value": "1796",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1796.png"
+    },
+    {
+      "label": "1804",
+      "value": "1804",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1812",
+      "value": "1812",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1816",
+      "value": "1816",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1828",
+      "value": "1828",
+      "tags": [
+        "historical"
+      ],
+      "style": "background-color:#614e4e;color:rgb(233, 138, 138);font-weight: bold;",
+      "image": "/static/mod_icons/1828.png"
+    },
+    {
+      "label": "1834 Commonwealth",
+      "value": "1834Commonwealth",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/Common.png"
+    },
+    {
+      "label": "1836",
+      "value": "1836",
+      "tags": [
+        "historical"
+      ]
+    },     
+    {
+      "label": "1836 Crockett",
+      "value": "1836 - Davy Crockett",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1836TX",
+      "value": "1836TX",
+      "tags": [
+        "historical",
+        "international"
+      ]
+    },
+    {
+      "label": "1844c: The Widow's Son",
+      "value": "1844c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1844c.png"
+    },
+    {
+      "label": "1845 IN-1: Utopian and Locofoco",
+      "value": "1845",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/1845.png"
+    },
+    {
+      "label": "1848",
+      "value": "1848",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1848b: Cass vs Clay",
+      "value": "1848b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1848b.png"
+    },
+    {
+      "label": "1852 Redux",
+      "value": "1852",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1852.png"
+    },
+    {
+      "label": "1852: Viva Taylor",
+      "value": "1852T",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1852T.png"
+    },
+    {
+      "label": "1856",
+      "value": "1856",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1864",
+      "value": "1864",
+      "tags": [
+        "historical"
+      ],
+      "style": "background-color:#003049;color:#e2e2c0;font-weight:bolder;font-family: 'Times New Roman', Times, serif;font-size:110%;",
+      "image": "/static/mod_icons/1864.png"
+    },
+    {
+      "label": "1868",
+      "value": "1868",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1868.png"
+    },
+    {
+      "label": "Sumner '68",
+      "value": "Sumner1868",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1868sumner_redux.gif"
+    },
+    {
+      "label": "1868b",
+      "value": "1868b",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1868b.png"
+    },
+    {
+      "label": "1868 Hamlin",
+      "value": "1868Hamlin",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1872",
+      "value": "1872",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1872.png"
+    },
+    {
+      "label": "1872: Triple Calamity",
+      "value": "1872TC",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1876",
+      "value": "1876",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1876.png"
+    },
+    {
+      "label": "1880",
+      "value": "1880",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1880 Hyperion",
+      "value": "1880 Hyperion",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1884",
+      "value": "1884",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1884.png"
+    },
+    {
+      "label": "1884 Hyperion",
+      "value": "1884 Hyperion",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1888",
+      "value": "1888",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1888.png"
+    },
+    {
+      "label": "1888: Rejuvenated Republicanism",
+      "value": "1888 - Rejuvenated Republicanism",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1888RR.png"
+    },
+    {
+      "label": "1892",
+      "value": "1892",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1892.png"
+    },
+    {
+      "label": "1892 Redux",
+      "value": "1892Redux",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1892Redux.png"
+    },
+    {
+      "label": "1892: Bourbon Restoration",
+      "value": "1892 - Bourbon Restoration",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1892BR.png"
+    },
+    {
+      "label": "1900",
+      "value": "1900Redux",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1900.png"
+    },
+    {
+      "label": "1900 - George Dewey",
+      "value": "1900 Dewey",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1900Dewey.png"
+    },
+    {
+      "label": "1900B - Bryan Wins",
+      "value": "1900B",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1900B.jpeg"
+    },
+    {
+      "label": "1904 (Redux)",
+      "value": "1904",
+      "tags": [
+        "historical"
+      ],
+      "style": "background-color:#222222;color:#f26b21 ;font-weight:bolder;font-family: 'Times New Roman', Times, serif;font-size:110%;",
+      "image": "/static/mod_icons/1904.png"
+    },
+    {
+      "label": "1904 Hearst",
+      "value": "1904 Hearst",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1908",
+      "value": "1908Redux",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1912",
+      "value": "1912",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1912astro.png"
+    },
+    {
+      "label": "1912 Original",
+      "value": "1912 - Original",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1912.png"
+    },
+    {
+      "label": "1912b - No Roosevelt",
+      "value": "1912b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1912b.png"
+    },
+    {
+      "label": "1916b - Incumbent Roosevelt v Bryan",
+      "value": "1916b",
+      "tags": [
+        "althist"
+      ],
+      "style": "background-color:#61604e;color:rgb(202, 211, 100);font-weight: bold;"
+    },
+    {
+      "label": "1920",
+      "value": "1920",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1920.png"
+    },
+    {
+      "label": "1920b - 1916b sequel, Incumbent Bryan v Wood",
+      "value": "1920b",
+      "tags": [
+        "althist"
+      ],
+      "style": "background-color:#61604e;color:rgb(202, 211, 100);font-weight: bold;"
+    },
+    {
+      "label": "1924",
+      "value": "1924",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1924.png"
+    },
+    {
+      "label": "1924b - 1916b sequel, Incumbent Wood v Reed",
+      "value": "1924b",
+      "tags": [
+        "althist"
+      ],
+      "style": "background-color:#61604e;color:rgb(202, 211, 100);font-weight: bold;"
+    },
+    {
+      "label": "1924 - Classic",
+      "value": "1924 - Classic",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1924 - Harding Lives",
+      "value": "1924H",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1924H.png"
+    },
+    {
+      "label": "1928",
+      "value": "1928",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1928.png"
+    },
+    {
+      "label": "1928 - American Crusade",
+      "value": "1928 Progressive Victory",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1932",
+      "value": "1932",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1932new.png"
+    },
+    {
+      "label": "1932 Classic",
+      "value": "1932 Classic",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1932.png"
+    },
+    {
+      "label": "1932 Biden",
+      "value": "1932BI",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1932Biden.png"
+    },
+    {
+      "label": "1932b - Baker v Curtis",
+      "value": "1932b",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1936",
+      "value": "1936",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1936DX.png"
+    },
+    {
+      "label": "1936: Every Man a King (Long vs. Landon)",
+      "value": "1936B",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1936b.png"
+    },
+    {
+      "label": "1936c - Long 3rd party",
+      "value": "1936c",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1936L - No Lusitania",
+      "value": "1936L",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1936L.png"
+    },
+    {
+      "label": "1940",
+      "value": "1940",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1940.png"
+    },
+    {
+      "label": "1940 Redux",
+      "value": "1940Redux",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1944",
+      "value": "1944",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1944 Redux",
+      "value": "1944Redux",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1946 CA-12: The Making of a Crook",
+      "value": "1946",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/1946.png"
+    },
+    {
+      "label": "1946 Wisconsin Senate",
+      "value": "1946 Wisconsin Senate",
+      "tags": [
+        "historical",
+        "state",
+	      "recent"
+      ],
+      "image": "/static/mod_icons/1946WI.png"
+    },
+    {
+      "label": "1948N - not related to 2000N (Dewey/Warren only)",
+      "value": "1948N",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1948N.png"
+    },
+    {
+      "label": "1948 Red",
+      "value": "1948Red",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1948Red.png"
+    },
+    {
+      "label": "1948b",
+      "value": "1948b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/henry.gif"
+    },
+    {
+      "label": "1952",
+      "value": "1952",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1952.png"
+    },
+    {
+      "label": "1952d - Incumbent Dewey, Stevenson v Taft",
+      "value": "1952d",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1952 Red",
+      "value": "1952Red",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1952red.png"
+    },
+    {
+      "label": "1952 WOLWOT",
+      "value": "1952 WOLWOT",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1952Disney.png"
+    },
+    {
+      "label": "1952 Truman",
+      "value": "1952T",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1952T.png"
+    },
+    {
+      "label": "1952 Redux",
+      "value": "1952Redux",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1953: Sordland",
+      "value": "1953 - Sordland",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1953Sordland.png"
+    },
+    {
+      "label": "1956",
+      "value": "1956",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1956.png"
+    },
+    {
+      "label": "1956 Red",
+      "value": "1956Red",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1956Red.png"
+    },
+    {
+      "label": "1960 - Reuther VP",
+      "value": "1960k",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1960.png"
+    },
+    {
+      "label": "1960 Symington",
+      "value": "1960",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1960s.png"
+    },
+    {
+      "label": "1960 Kennedy",
+      "value": "1960Kennedy",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1960 LBJ",
+      "value": "1960LBJ",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1960 McMath/PSUSH",
+      "value": "1960psush",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1960 - Third Trial",
+      "value": "1960SvBvB",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1960Stevenson.png"
+    },
+    {
+      "label": "1960 Azure",
+      "value": "1960Azure",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1960 Humphrey",
+      "value": "1960HHH",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1960HHH.png"
+    },
+    {
+      "label": "1962: Sweet Home",
+      "value": "1962 Sweet Home",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+    {
+      "label": "1963 South Korea",
+      "value": "1963Korea",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/1963Korea.png"
+    },
+    {
+      "label": "1964b - Rockefeller wins REP nom",
+      "value": "1964b",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1964d - Goldwater v Wallace v McCarthy",
+      "value": "1964d",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1964 TNO",
+      "value": "1964TNO",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1964 TNO - Redux",
+      "value": "1964TNORedux",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1964 Viva Kennedy",
+      "value": "1964Viva",
+      "tags": [
+        "althist"
+      ],
+      "style": "color:#99bbe0;background-color: #2453A5;font-family: Brush Script MT;font-size: larger;",
+      "image": "/static/mod_icons/VK1964.png"
+    },
+    {
+      "label": "1964 Nixon (Redux)",
+      "value": "1964N - Redux",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1964NRDX.png"
+    },
+    {
+      "label": "Midnight 1964",
+      "value": "Midnight 1964",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/Midnight64icon.png"
+    },
+    {
+      "label": "1964 Draft Lodge",
+      "value": "1964DraftLodge",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1964Lodge.png"
+    },
+    {
+      "label": "1964 - The Beatles",
+      "value": "1964Beatles",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1964 TNO (Bennett)",
+      "value": "1964TNO Bennett",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1964Bennett.png"
+    },
+    {
+      "label": "1964 Scoop!",
+      "value": "1964Scoop",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1964Scoop.png"
+    },
+    {
+      "label": "1964 - The Eighth Crisis",
+      "value": "1964 - The Eighth Crisis",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/Eight.png"
+    },
+    {
+      "label": "Midnight 1965",
+      "value": "Midnight 1965",
+      "tags": [
+        "althist",
+        "state"
+      ],
+      "image": "/static/mod_icons/Mid1965.png"
+    },
+    {
+      "label": "1968 Wallace Feedback",
+      "value": "1968W",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968WallaceFeed.png"
+    },
+    {
+      "label": "1968 Colonel Sanders",
+      "value": "1968Sand",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968Sanders.png"
+    },
+    {
+      "label": "1968 Humphrey Feedback",
+      "value": "1968H",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1968 Humphrey VPs",
+      "value": "1968VP",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1968b - Nixon v Wallace v McCarthy",
+      "value": "1968b",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1968 Romney",
+      "value": "1968Romney",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968R.png"
+    },
+    {
+      "label": "1968 Landon",
+      "value": "1968Landon",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1968 RFK",
+      "value": "1968c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968RFK.png"
+    },
+    {
+      "label": "1968 TNO",
+      "value": "1968TNO",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1968 - Ideology Crusade",
+      "value": "1968 - Ideology Crusade",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968IC.png"
+    },
+    {
+      "label": "1968 Viva Kennedy",
+      "value": "1968Viva",
+      "tags": [
+        "althist"
+      ],
+      "style": "color:#99bbe0;background-color: #2453A5;font-family: Brush Script MT;font-size: larger;",
+      "image": "/static/mod_icons/VK1968.png"
+    },
+    {
+      "label": "1968: Time for Choosing",
+      "value": "1968TFC",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1968c",
+      "value": "1968SCP",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968c.png"
+    },
+    {
+      "label": "1968 Rockefeller",
+      "value": "1968Rockefeller",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968Rockefeller.png"
+    },
+    {
+      "label": "1968 Camelot",
+      "value": "1968Camelot",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968Camelot.png"
+    },
+    {
+      "label": "1968 - Revenge of Aquarius",
+      "value": "1968 Revenge of Aquarius",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1968ROA.png"
+    },
+    {
+      "label": "1968 - Kicking Around",
+      "value": "1968 - Kicking Around",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/kickaround.png"
+    },
+    {
+      "label": "All The Way",
+      "value": "1968 - All The Way",
+      "tags": [
+        "historical",
+        "recent"
+      ],
+      "image": "/static/mod_icons/alltheway.png"
+    },
+    {
+      "label": "1968 McCarthy",
+      "value": "1968 McCarthy",
+      "tags": [
+        "althist",
+        "recent"
+      ],
+      "image": "/static/mod_icons/1968mc.png"
+    },
+    {
+      "label": "1968: Reagan Vs McCarthy",
+      "value": "1968 McCarthy Vs Reagan",
+      "tags": [
+        "althist",
+        "recent"
+      ]
+    },
+    {
+      "label": "1970 Hawaii Senate (Fong Only)",
+      "value": "1970HI",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/1970HI.png"
+    },
+    {
+      "label": "1971 South Korea",
+      "value": "1971Korea",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/1971Korea.png"
+    },
+    {
+      "label": "1972",
+      "value": "1972",
+      "tags": [
+        "historical"
+      ],
+      "style": "background-color:#7c3a0b;color:#ffc800;font-weight:bolder;",
+      "image": "/static/mod_icons/1972.png"
+    },
+    {
+      "label": "1972 - Peace With Honor",
+      "value": "1972 - Peace With Honor",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1972PWH.png"
+    },
+    {
+      "label": "1972 Ted - Ted Kennedy VP option",
+      "value": "1972_Ted",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972Ted.png"
+    },
+    {
+      "label": "1972b: The Stand for the White House",
+      "value": "1972b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972b.png"
+    },
+    {
+      "label": "1972c - Nixon v Mondale",
+      "value": "1972c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972c.png"
+    },
+    {
+      "label": "1̸͔́9̴̨͋7̴̭̑2̴̲͒d̷̗̓",
+      "value": "1972d",
+      "tags": [
+        "althist"
+      ],
+      "style": "color:#ff0000;font-style:italic;background-color: #3d2f2f;",
+      "image": "/static/mod_icons/1972d.png"
+    },
+    {
+      "label": "1972 RFK-RFK incumbent v Reagan",
+      "value": "1972RFK",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1972 McGoverning - Nixon v McGovern v Wallace",
+      "value": "1972Mc",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972_mc.png"
+    },
+    {
+      "label": "1972 Birch Bayh",
+      "value": "1972Bayh",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972Bayh.png"
+    },
+    {
+      "label": "1972 Edmund Muskie",
+      "value": "1972Muskie",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972Muskie.png"
+    },
+    {
+      "label": "1972 Delaware Senate (Biden)",
+      "value": "1972Biden",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/1972Biden.png"
+    },
+    {
+      "label": "1972 TNO (Hall)",
+      "value": "1972TNO",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972TNO.png"
+    },
+    {
+      "label": "1972 Humphrey",
+      "value": "1972Humphrey",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972Hump.png"
+    },
+    {
+      "label": "1972 Romney",
+      "value": "1972Romney",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1972: Time for Choosing",
+      "value": "1972TFC",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972TFC.png"
+    },
+    {
+      "label": "1972: On His Own Term",
+      "value": "1972 On His Own Term",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1972Rocky.png"
+    },
+      {
+      "label": "1972 Lindsay",
+      "value": "1972Lindsay",
+      "tags": [
+        "althist",
+        "recent"
+      ]
+    },
+    {
+      "label": "1976 - Alternate VPs",
+      "value": "1976Alt",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1976 Reagan - Reagan primaries Ford",
+      "value": "1976Reagan",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1976 Rockefeller - Nelson Rockefeller v. Jerry Brown",
+      "value": "1976Rock",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1976 Agnew",
+      "value": "1976Agnew",
+      "tags": [
+        "althist"
+      ],
+      "style": "color:#001D3D;font-weight: bolder;background-color:#7cb0ff;",
+      "image": "/static/mod_icons/1976Agnew.png"
+    },
+    {
+      "label": "1976 Italy",
+      "value": "1976Italy",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/1976Italy.png"
+    },
+    {
+      "label": "1976 Italy (PSI)",
+      "value": "1976ItalyPSI",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/1976ItalyPSI.png"
+    },
+    {
+      "label": "1976: Time for Choosing",
+      "value": "1976TFC",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1976TFC.png"
+    },
+    {
+      "label": "1976 - President from Boeing",
+      "value": "1976 - President from Boeing",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1976Scoop.png"
+    },
+    {
+      "label": "1976 Preach",
+      "value": "1976Preach",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1976 Udall",
+      "value": "1976Udall",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1978 Texas' 19th Congressional District",
+      "value": "1978TX-19",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/1978TX-19.png"
+    },
+    {
+      "label": "1980",
+      "value": "1980",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1980.png"
+    },
+    {
+      "label": "1980 Anderson",
+      "value": "1980A",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1980A.png"
+    },
+    {
+      "label": "1980b - Kennedy Primaries Carter",
+      "value": "1980b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1980Kennedy.png"
+    },
+    {
+      "label": "1980 - THE HAPPY WARRIOR",
+      "value": "1980 - THE HAPPY WARRIOR",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1980HW.png"
+    },
+    {
+      "label": "1980 Redux",
+      "value": "1980Redux",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1980 - Points of Light",
+      "value": "1980POL",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1980c",
+      "value": "1980c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1980c.png"
+    },
+    {
+      "label": "1983 Chicago Mayoral",
+      "value": "1983",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "1984",
+      "value": "1984Redux",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1984.png"
+    },
+    {
+      "label": "1984b (Reagan Assassination)",
+      "value": "1984b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1984b.png"
+    },
+    {
+      "label": "1984: Carterverse",
+      "value": "1984C",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1984C.png"
+    },	
+    {
+      "label": "1988b-Bush v Jackson",
+      "value": "1988b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988Jesse.png"
+    },
+    {
+      "label": "1988d-Bush v Dale Bumpers",
+      "value": "1988d",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988Bumpers.png"
+    },
+    {
+      "label": "1988 Biden - Biden v Bush",
+      "value": "1988BI",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988BI.png"
+    },
+    {
+      "label": "1988 Iran Contra",
+      "value": "1988IranContra",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1988 Gary Hart",
+      "value": "1988HART",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988Hart.png"
+    },
+    {
+      "label": "1988: The Al Gore Mod",
+      "value": "1988Gore",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/gore88.png"
+    },
+    {
+      "label": "1988: Texas Showdown",
+      "value": "1988Texans",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988TX.png"
+    },
+    {
+      "label": "1988: The Rainbow Trail",
+      "value": "1988RB",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988RT.png"
+    },
+    {
+      "label": "1988 Dole",
+      "value": "1988Dole",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1988 Fritz",
+      "value": "1988Fritz",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "Slick '88",
+      "value": "Slick 88",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/slick88.png"
+    },
+    {
+      "label": "'88 Afton",
+      "value": "88 Afton",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/afton.png"
+    },
+    {
+      "label": "1988: This Time With Hart",
+      "value": "1988TTWH",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1988TTWH.gif"
+    },
+    {
+      "label": "1990 North Carolina Senate",
+      "value": "1990 NC Senate",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+    {
+      "label": "1992 (Bush/Clinton Sides)",
+      "value": "1992",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1992.png"
+    },
+    {
+      "label": "1992 (Perot)",
+      "value": "1992P",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1992Perot.png"
+    },
+    {
+      "label": "1992 Redux",
+      "value": "1992Redux",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1992Redux.png"
+    },
+    {
+      "label": "1992b - Incumbent Dukakis v Buchanan",
+      "value": "1992B",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1992b.png"
+    },
+    {
+      "label": "1992 - McGovern",
+      "value": "1992McGovern",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1992McGovern.png"
+    },
+    {
+      "label": "1992 - Rock Us Dukakis",
+      "value": "1992RockUsDukakis",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1992RAD.png"
+    },
+    {
+      "label": "1992 MLK",
+      "value": "1992MLK",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1992MLK.png"
+    },
+    {
+      "label": "1992 Lion",
+      "value": "1992Lion",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1992Lion.png"
+    },
+    {
+      "label": "Big Deal; Biden '92",
+      "value": "1992Biden",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/BigDeal.png"
+    },
+    {
+      "label": "1992 Simpsons",
+      "value": "1992 The Simpsons",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "1993: Post-Communist USA",
+      "value": "1993PC",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1993PC.png"
+    },
+    {
+      "label": "1993",
+      "value": "1993D",
+      "tags": [
+        "althist"
+      ],
+      "style": "font-style:italic;"
+    },
+    {
+      "label": "1996",
+      "value": "1996",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/1996.png"
+    },
+    {
+      "label": "1996 Powell",
+      "value": "1996Powell",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1996Powell.png"
+    },
+    {
+      "label": "1996b - 1992b sequel-Gore v Dole",
+      "value": "1996b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1996b.png"
+    },
+    {
+      "label": "1996c - Clinton v Gingrich",
+      "value": "1996c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/1996c.png"
+    },
+    {
+      "label": "1996BR - Forbes v Bradley",
+      "value": "1996BR",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "The End of History - 1996",
+      "value": "1996 - The End of History",
+      "tags": [
+        "althist"
+      ],
+      "style": "color:rgb(1, 130, 129);font-style:oblique;font-weight: bold;",
+      "image": "/static/mod_icons/1996EndOfHistory.png"
+    },
+    {
+      "label": "1996 Jay",
+      "value": "1996Jay",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/jay.png"
+    },
+    {
+      "label": "1996 Russia",
+      "value": "1996Russia",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/1996Russia.png"
+    },
+    {
+      "label": "1996 Dynasty",
+      "value": "1996 Dynasty",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/dynasty1996.png"
+    },
+    {
+      "label": "1998 Minnesota Governor Race (Ventura only)",
+      "value": "1998Minnesota",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/1998Minnesota.png"
+    },
+    {
+      "label": "2000b - 1992b Sequel",
+      "value": "2000b",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2000 - Patrick Bateman",
+      "value": "2000Bateman",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000Bateman.gif"
+    },
+    {
+      "label": "2000 Maverick",
+      "value": "2000Maverick",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000McCain.png"
+    },
+    {
+      "label": "2000 Jeb!",
+      "value": "2000Jeb!",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000Jeb.png"
+    },
+    {
+      "label": "2000 Palpatine",
+      "value": "2000Palpatine",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000Palpatine.png"
+    },
+    {
+      "label": "2000N",
+      "value": "2000N",
+      "tags": [
+        "althist"
+      ],
+      "style": "font-weight:bolder;",
+      "image": "/static/mod_icons/2000N.png"
+    },
+    {
+      "label": "2000 Former Presidents",
+      "value": "2000FP",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000FP.png"
+    },
+    {
+      "label": "𝙱𝚘𝚋'𝚜 𝙼𝚊𝚌𝚊𝚛𝚎𝚗𝚊.",
+      "value": "2000_BM",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000_BM.png"
+    },
+    {
+      "label": "Republic of China - 2000",
+      "value": "2000ROC",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/ROC2000.png"
+    },
+    {
+      "label": "2000 Redux",
+      "value": "2000",
+      "tags": [
+        "historical",
+        "recent"
+      ],
+      "image": "/static/mod_icons/2000.png"
+    },
+    {
+      "label": "2000: Goredux",
+      "value": "2000Redux",
+      "tags": [
+        "historical",
+        "recent"
+      ],
+      "image": "/static/mod_icons/gore.png"
+    },
+    {
+      "label": "2001 Australia",
+      "value": "2001 Aus",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2001 Aus.png"
+    },
+    {
+      "label": "2001 NYC Mayoral",
+      "value": "2001NYC",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+    {
+      "label": "2002 Netherlands",
+      "value": "2002NL",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2002NL.png"
+    },
+    {
+      "label": "2003 California Recall",
+      "value": "2003CA",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2003CA.png"
+    },
+    {
+      "label": "2004",
+      "value": "2004",
+      "tags": [
+        "historical"
+      ],
+      "style": "color:rgb(0, 206, 189);font-weight:bolder;",
+      "image": "/static/mod_icons/2004.png"
+    },
+    {
+      "label": "2004b - Gore incumbent v McCain",
+      "value": "2004b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2004b.png"
+    },
+    {
+      "label": "2004d - Howard Dean",
+      "value": "2004d",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2004d.png"
+    },
+    {
+      "label": "2004 Maverick",
+      "value": "2004Maverick",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2000McCain.png"
+    },
+    {
+      "label": "W.",
+      "value": "2004 - W",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/W.png"
+    },
+    {
+      "label": "2004 Joementum!",
+      "value": "2004Joe!",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2004Joe.png"
+    },
+    {
+      "label": "2004 Joementum Redux",
+      "value": "2004Joementum",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/joedux.png"
+    },
+    {
+      "label": "2004: Bush, You're Fired",
+      "value": "2004BYF",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2004Trump.png"
+    },
+    {
+      "label": "2004 Sundance",
+      "value": "2004Sundance",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2004Sundance.png"
+    },
+    {
+      "label": "2006 Tennessee Senate",
+      "value": "2006 Tennessee Senate",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2006TN.png"
+    },
+    {
+      "label": "2008",
+      "value": "2008",
+      "tags": [
+        "historical"
+      ],
+      "style": "background-color: #5d1565;color:rgb(255, 0, 251);font-weight:bolder;",
+      "image": "/static/mod_icons/2008.png"
+    },
+    {
+      "label": "2008b - Clinton v Giuliani",
+      "value": "2008b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2008b.png"
+    },
+    {
+      "label": "2008c - Gore v McCain",
+      "value": "2008c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2008c.png"
+    },
+    {
+      "label": "2008 Trump-Trump Dem v McCain",
+      "value": "2008T",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2008T.png"
+    },
+    {
+      "label": "2008 Breaking Bad",
+      "value": "2008d",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2008d.png"
+    },
+    {
+      "label": "2008 Spongebob",
+      "value": "2008SpongeBob",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/spongebob08.png"
+    },
+    {
+      "label": "2008 Liberty and Liberalism",
+      "value": "2008_LL",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2008LL.png"
+    },
+    {
+      "label": "2008 Reed",
+      "value": "2008Reed",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/reed2008.png"
+    },
+    {
+      "label": "Bryan '08",
+      "value": "Bryan08",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/Bryan08.png"
+    },
+    {
+      "label": "2010: Massachusetts Special Election",
+      "value": "2010MASenate",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/2010ma.png"
+    },
+    {
+      "label": "2012 South Korea",
+      "value": "2012Korea",
+      "tags": [
+        "historical",
+        "international"
+      ]
+    },
+    {
+      "label": "2012: Outsider Comes Early",
+      "value": "2012T",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2012T.png"
+    },
+    {
+      "label": "2012 Breaking Bad",
+      "value": "2012 Breaking Bad",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2012BB.png"
+    },
+    {
+      "label": "2012: Our President Needs Us",
+      "value": "2012 Trump",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "Obamanation",
+      "value": "2012 - Obamanation",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/obama.png"
+    },
+    {
+      "label": "American Nihilism",
+      "value": "2012",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2012 McCain",
+      "value": "2012m",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2012 Redux",
+      "value": "2012_Redux",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2012 Shattered",
+      "value": "2012 Shattered",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2012sh.png"
+    },
+    {
+      "label": "2013NJ",
+      "value": "2013",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2014 Carolina Compromise",
+      "value": "2014cc",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2015 Denmark",
+      "value": "2015DK",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2015DK.png"
+    },
+    {
+      "label": "2016 4Way (Clinton/Rubio)",
+      "value": "2016FourWay",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2016 4Way (Sanders/Trump)",
+      "value": "2016FourWay2",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2016 Four-Way Redux (Clinton/Rubio)",
+      "value": "2016FourCandidate1",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016FourCandidate1.png"
+    },
+    {
+      "label": "2016 Four-Way Redux (Trump/Sanders)",
+      "value": "2016FourCandidate2",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016FourCandidate2.png"
+    },
+    {
+      "label": "2016b - Trump v Sanders",
+      "value": "2016b",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016b.png"
+    },
+    {
+      "label": "2016c - Trump v Biden",
+      "value": "2016c",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016c.png"
+    },
+    {
+      "label": "2016ra - Baker v Cuellar",
+      "value": "2016ra",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2016ra Redux",
+      "value": "2016radux",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016Radux.png"
+    },
+    {
+      "label": "2016 NC Gov",
+      "value": "2016NC",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+    {
+      "label": "2016 Jeb Bush",
+      "value": "2016Jeb!",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016Jeb!.png"
+    },
+    {
+      "label": "2016 Ted Cruz",
+      "value": "Cruz 2016",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016Cruz.png"
+    },
+    {
+      "label": "2016 Democratic Primaries",
+      "value": "2016DNC",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/2016DNC.png"
+    },
+    {
+      "label": "Sequel to 2016 Democratic Primaries",
+      "value": "2016OMalley",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/Seq2016.png"
+    },
+    {
+      "label": "2016 Arnold Amendment",
+      "value": "2016AARedux",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016ARNOLD.png"
+    },
+    {
+      "label": "Class War: 2016",
+      "value": "2016ClassWar",
+      "tags": [
+        "althist",
+        "recent"
+      ]
+    },
+    {
+      "label": "2016 Koopa",
+      "value": "2016K",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016K.png"
+    },
+    {
+      "label": "2016 - New Day",
+      "value": "2016NewDay",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2016ND.png"
+    },
+    {
+      "label": "2016 Brexit Referendum",
+      "value": "2016 Brexit",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2016 Brexit.png"
+    },
+    {
+      "label": "2016 - Re-Elect Romney",
+      "value": "2016 - Re-Elect Romney",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2017 UK (Classic)",
+      "value": "2017 UK",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2017 UK.png"
+    },
+    {
+      "label": "2017 UK Parliament",
+      "value": "2017 UK - Redux",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/bbc.png"
+    },
+    {
+      "label": "2017 Netherlands",
+      "value": "2017NL",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2017NL.png"
+    },
+    {
+      "label": "2018 GA Gov",
+      "value": "2018",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+    {
+      "label": "2018 Senate",
+      "value": "2018senate",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/2018Sen.png"
+    },
+    {
+      "label": "2018 TN Senate",
+      "value": "2018TN",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "label": "2019 North Korea",
+      "value": "2019NK",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "style": "background-color:#670000;color:rgb(255, 0, 0);font-weight: bold;",
+      "image": "/static/mod_icons/2019NK.png"
+    },
+    {
+      "label": "2020a - 2020",
+      "value": "2020a",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2020b - Incumbent Clinton v Rubio",
+      "value": "2020b",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2020 Realign",
+      "value": "2020Realign",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2020 Lithuania - Plagues and Plaques",
+      "value": "2020LT",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2020LT.png"
+    },
+    {
+      "label": "2020 Koopa",
+      "value": "2020K",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2020K.png"
+    },
+    {
+      "label": "2020: Republican Chaos",
+      "value": "2020 - Republican Chaos",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/impeach.gif"
+    },
+    {
+      "label": "2020 Warren",
+      "value": "2020",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2020 Arnold Amendment",
+      "value": "2020ARNOLD",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2020Arnold.png"
+    },
+    {
+      "label": "Alfred E. Neuman 2020",
+      "value": "2020AEN",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/aen.png"
+    },
+    {
+      "label": "American Carnage",
+      "value": "American Carnage",
+      "tags": [
+        "historical"
+      ],
+      "image": "/static/mod_icons/Carnage.gif"
+    },
+    {
+      "label": "2021 VA Gov",
+      "value": "2021",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+	    {
+    "label": "Germany 2021 - Between Decades",
+      "value": "2021DE",
+      "tags": [
+        "historical",
+        "international"
+      ],
+	  "image": "/static/mod_icons/2021DE.png"
+    },
+    {
+      "label": "2022 PA Sen",
+      "value": "2022",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2022PASen.png"
+    },
+    {
+      "label": "2022 PA Gov",
+      "value": "2022PAGov",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2022PaGov.png"
+    },
+    {
+      "label": "2022 OH Sen",
+      "value": "2022 Hillbilly Requiem",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2022OhioSen.png"
+    },
+    {
+      "label": "2022 NY Gov",
+      "value": "2022 New York Gubernatorial Election",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2022NYGov.png"
+    },
+    {
+      "label": "2022 AZ Gov",
+      "value": "2022AZGov",
+      "tags": [
+        "historical",
+        "state"
+      ]
+    },
+    {
+      "label": "2022 Victoria",
+      "value": "2022Victoria",
+      "tags": [
+        "historical",
+        "state"
+      ],
+      "image": "/static/mod_icons/2022Victoria.png"
+    },
+    {
+      "label": "2023 WOKE",
+      "value": "2023 WOKE",
+      "tags": [
+        "althist",
+        "state"
+      ]
+    },
+    {
+      "label": "2023 Netherlands",
+      "value": "2023NL",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2023NL.png"
+    },
+    {
+      "label": "2024",
+      "value": "2024",
+      "tags": [
+        "historical",
+        "recent"
+      ],
+      "image": "/static/mod_icons/2024.png"
+    },
+    {
+      "label": "2024 United Kingdom",
+      "value": "2024a",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/2024a.png"
+    },
+    {
+      "label": "2024 (Upon a Cross of Globalism)",
+      "value": "2024G",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2024G.png"
+    },
+    {
+      "label": "2024: Regime Change",
+      "value": "2024 - Regime Change",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2024: Democracy’s Martyrdom",
+      "value": "2024-DM",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2024dm.png"
+    },
+    {
+      "label": "2024 Lithuania",
+      "value": "2024LT",
+      "tags": [
+        "historical",
+        "international"
+      ]
+    },
+    {
+      "label": "Green Mountain State",
+      "value": "2024 VT",
+      "tags": [
+        "althist",
+        "state"
+      ]
+    },
+    {
+      "label": "2024 Arnold Amendment",
+      "value": "2024ARNOLD",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2024AA.png"
+    },
+    {
+      "label": "Republic of China - 2024",
+      "value": "2024ROC",
+      "tags": [
+        "historical",
+        "international"
+      ],
+      "image": "/static/mod_icons/ROC2024.png"
+    },
+    {
+      "label": "2024 Exile America",
+      "value": "2024Exile",
+      "tags": [
+        "althist",
+        "international"
+      ],
+      "image": "/static/mod_icons/exile.png"
+    },
+        {
+      "label": "Pete 2024",
+      "value": "Pete 2024",
+      "tags": [
+        "althist",
+        "recent"
+      ]
+    },
+        {
+      "label": "2024 - Our Revolution",
+      "value": "2024 - Our Revolution",
+      "tags": [
+        "althist",
+        "recent"
+      ],
+      "image": "/static/mod_icons/bernie.png"
+    },
+    {
+      "label": "The Divorce Trail: Astro v. Luuwuu (2023 April Fools Day)",
+      "value": "Divorce",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/Divorce.png"
+    },
+    {
+      "label": "Animal Crossing Mayoral Election",
+      "value": "AnimalCrossingMayoralElection",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/AC.png"
+    },
+    {
+      "label": "2025 Canada",
+      "value": "2025Canada",
+      "tags": [
+        "historical",
+        "international",
+        "recent"
+      ],
+      "image": "/static/mod_icons/2025Canada.jpg"
+    },
+    {
+      "label": "2025 Netherlands",
+      "value": "2025NL",
+      "tags": [
+        "althist",
+        "international"
+      ]
+    },
+    {
+      "label": "2025 Freedom ",
+      "value": "2025Freedom",
+      "tags": [
+        "althist",
+        "recent"
+      ]
+    },
+    {
+      "label": "2028 Swift",
+      "value": "2028Swift",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2028Swift.png"
+    },
+    {
+      "label": "2028 Armstrong",
+      "value": "2028 Armstrong",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/armstrong.png"
+    },
+    {
+      "label": "2076 - The End",
+      "value": "2076",
+      "tags": [
+        "althist"
+      ]
+    },
+    {
+      "label": "2189 New California",
+      "value": "2189",
+      "tags": [
+        "althist"
+      ],
+      "image": "/static/mod_icons/2189.png"
+    },
+	{
+      "label": "1824",
+      "value": "1824",
+      "tags": [
+        "historical",
+		    "recent"
+      ]
+    }   
+  ]

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<title>新竞选之路</title>
+<link rel="stylesheet" href="../static/amusa_main_2016032801.css" type="text/css" media="screen" />
+<link rel="shortcut icon" href="../static/34starcircle-2.png" />
+<link rel="canonical" href="index.html" />
+<meta name="description" content="新竞选之路 游戏结果。" />
+<meta property="og:title" content="新竞选之路 - 全新改版的总统选举游戏" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="../static/34starcircle-2.png" />
+<meta property="og:image:type" content="image/jpeg" /> 
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:url" content="index.html" />
+<meta property="og:description" content="新竞选之路 游戏结果。" />
+<meta property="og:site_name" content="新竞选之路" />
+</head>
+<body class="base">
+<div class="container">      
+<center><img src="" id="header" width=1080></img></center>
+<div class="menu_bar_login">
+</div>
+<div class="content_box">
+<div class="content_single">
+<div id="game_window">
+<div class="game_header">
+<h2>新竞选之路</h2>
+</div>
+<div class="below_header" id="below_header">
+
+<div class="inner_window_front" id="inner_window_1" style="padding:0px;">
+<h1 id="game_res_title">游戏结果：</h1>
+</div>
+
+<div class="inner_window_front" id="display_window" style="height:350px">
+    
+</div>
+
+</div>
+</div>
+<div class="footer">
+<div id="music_player" style="display:none">
+  <button onclick="document.getElementById('campaigntrailmusic').play()">播放原声</button>     
+  <button onClick="document.getElementById('campaigntrailmusic').pause()">暂停</button>
+  <audio id="campaigntrailmusic" loop="true" style="display:none" src="" autoplay="false"></audio>
+</div>
+<button id="modLoadReveal" onclick="if(document.getElementById('modloaddiv').style.display != 'none'){document.getElementById('modloaddiv').style.display = 'none'}else{document.getElementById('modloaddiv').style.display = 'block'}">
+  模组加载器
+</button><br><br>
+<div id="modloaddiv" style="display:none">
+  <select name="mod" id="modSelect" onchange="modSelectChange()"></select>
+  <div id="customMenu"><br>
+  <b>代码集 1：</b><br>
+  <textarea id="codeset1" width=400 height=300></textarea><br>
+  </div>
+  <br>
+  <button id="submitMod">提交</button>
+</div><br>
+<div id="theme_picker">
+<span class="campaign_trail_start_emphasis"><button id="game_start" onclick=creatorChange()><strong>按钮</strong></button></span>    
+</div>
+<br><br>
+<a href="http://www.americanhistoryusa.com" style="color:#FF6B6B">原始网站</a> 由 Dan Bryan 创建 &copy; 2012-<testf id="year">2022</testf>
+<br> 
+报告问题和查看源代码，请访问我们的 <a href="https://github.com/newcampaigntrail/newcampaigntrail.github.io" style="color:#FF6B6B">GitHub</a>
+<br> 
+加入我们的 <a href="https://discord.gg/CfS6yTtjZj" style="color:#FF6B6B">Discord 服务器！</a><br>
+</div>
+</div>
+<div id="1796_init" style="display:none"></div>
+<br>
+</div>
+<div id='dialogue' title='福利检查'></div>
+</body>
+</html>
