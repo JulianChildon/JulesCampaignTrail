@@ -104,9 +104,9 @@
     "fields": {
       "year": 1964,
       "summary": "<p>1964年的美国仍不安定，已故的约翰·F·肯尼迪仍然留在人们的集体记忆中。在经历了1963年11月的震惊后，全国仍在恢复中，而1964年的大选刚刚拉开帷幕。美国在越南、社会保障和民权等问题上的走向充满疑问。</p><ul><li>林登·B·约翰逊试图保持自己在民调中的巨大领先优势，捍卫其政策，同时团结民主党内支持种族融合与反对融合的选民。</li><li>巴里·戈德华特希望迅速缩小差距，在一场激烈的初选后重新团结共和党，推动其保守主义愿景，并首次自重建以来赢得南方。</li></ul>",
-      "image_url": "https://i.imgur.com/zHVrIgV.png",
+      "image_url": "../static/images/1964-election-photo.png",
       "winning_electoral_vote_number": 270,
-      "advisor_url": "https://i.imgur.com/RsnpYGz.png",
+      "advisor_url": "../static/images/1964-advisor.png",
       "recommended_reading": "…"
     }
   },
