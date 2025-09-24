@@ -4,7 +4,7 @@
     "pk": 21,
     "fields": {
       "year": 2020,
-      "summary": "<p>Joe Biden and Donald Trump face off in a heated 2020 election campaign. Held in the wake of a COVID-19 pandemic and nationwide protests, turnout is expected to be through the roof. Can Joe Biden hold together a large enough coalition of anti-Trump voters to make Trump a one-term President, or will Trump pull of another huge upset after trailing in the polls?</p>",
+      "summary": "<p>乔·拜登和唐纳德·特朗普在激烈的2020年大选中交锋。这场选举发生在新冠疫情和全国性抗议的背景下，预计投票率将创下新高。拜登能否团结起足够庞大的反特朗普联盟，使特朗普成为只任一届的总统？还是特朗普会在落后于民调的情况下，再次上演惊人的逆袭？</p>",
       "image_url": "../static/images/2020-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/dillon-stepien.jpg",
@@ -19,14 +19,11 @@
     "pk": 20,
     "fields": {
       "year": 2016,
-      "summary": "<p>Donald Trump and Hillary Clinton face off in the 2016 election. While he is well-known among the American public, Trump has never served in elected office. Clinton has served as First Lady, Senator, and Secretary of State. Clinton was the presumptive nominee from start to finish, while Trump has shocked the political world.</p><p>How will their campaign play out? Can Trump pull off an upset? Can Clinton continue the legacy of Obama?</p>",
+      "summary": "<p>唐纳德·特朗普和希拉里·克林顿在2016年大选中对决。尽管特朗普在美国公众中广为人知，但他从未担任过任何公职。而克林顿曾任第一夫人、参议员以及国务卿。从头到尾，克林顿都是民主党的当然提名人，而特朗普则震惊了整个政坛。</p><p>他们的竞选将如何展开？特朗普能否制造冷门？克林顿能否延续奥巴马的政治遗产？</p>",
       "image_url": "../static/images/2016-election-photo-v2.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/bannon-mook-2016.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Articles</h4>FiveThirtyEight - <a href=\"http://projects.fivethirtyeight.com/2016-swing-the-election/\" target=\"_blank\"> What Would It Take To Turn Blue States Red?</a></br><a href=\"http://thehill.com/blogs/ballot-box/presidential-races/274317-anti-trump-forces-point-to-losing-match-ups-with-clinton\">Anti-Trump forces seize on grim polls for Clinton match-up</a></br><a href=\"http://www.slate.com/blogs/the_slatest/2016/02/24/donald_trump_could_beat_hillary_clinton_in_the_general.html\">Think Hillary Clinton Will Crush Donald Trump in the General Election? Don’t Be So Sure.</a></br><a href=\"http://www.slate.com/blogs/the_slatest/2016/03/01/hillary_clinton_plots_her_general_election_trump_strategy.html\">How Team Clinton Is Planning to Defeat Trump</a></br><a href=\"http://www.vox.com/2016/2/10/10961324/donald-trump-win-november\">Here's Donald Trump's Best Strategy for Winning the White House</a><h4>Books</h4>\nHillary Clinton - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1476751471/amhius20-20\" target=\"_blank\">Hard Choices</a></br>\nHillary Clinton - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0743222253/amhius20-20\" target=\"_blank\">Living History</a></br>\nDonald Trump - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1501137964/amhius20-20\" target=\"_blank\">Crippled America: How to Make America Great Again</a></br>\nDonald Trump - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0399594493/amhius20-20\" target=\"_blank\">The Art of the Deal</a></br>\nGary Johnson - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B008PXW0C0/amhius20-20\" target=\"_blank\">Seven Principles of Good Government</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/2012-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -34,15 +31,11 @@
     "pk": 16,
     "fields": {
       "year": 2016,
-      "summary": "<p>Hillary Clinton and Donald Trump face off in the 2016 election. Clinton has served as First Lady, Senator, and Secretary of State. Trump has never served in elected office. Clinton was the presumptive nominee from start to finish, while Trump has shocked the political world.</p><p>How will their campaign play out? Can Clinton continue the legacy of Obama? Can Trump pull off an upset?</p><p>(<em>NOTE: scenario created in March 2016, may not reflect subsequent events.</em>)</p>",
+      "summary": "<p>希拉里·克林顿与唐纳德·特朗普在2016年大选中交锋。克林顿曾担任第一夫人、参议员和国务卿，而特朗普从未担任过任何公职。克林顿自始至终都是民主党的当然提名人，而特朗普则震惊了整个政治世界。</p><p>他们的竞选将如何展开？克林顿能否延续奥巴马的政治遗产？特朗普能否制造冷门？</p><p>(<em>注：本场景创建于2016年3月，可能未能反映其后的事件。</em>)</p>",
       "image_url": "../static/images/2016-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/mook-lewandowski-2016.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Articles</h4>FiveThirtyEight - <a href=\"http://projects.fivethirtyeight.com/2016-swing-the-election/\" target=\"_blank\"> What Would It Take To Turn Blue States Red?</a></br><a href=\"http://thehill.com/blogs/ballot-box/presidential-races/274317-anti-trump-forces-point-to-losing-match-ups-with-clinton\">Anti-Trump forces seize on grim polls for Clinton match-up</a></br><a href=\"http://www.slate.com/blogs/the_slatest/2016/02/24/donald_trump_could_beat_hillary_clinton_in_the_general.html\">Think Hillary Clinton Will Crush Donald Trump in the General Election? Don’t Be So Sure.</a></br><a href=\"http://www.slate.com/blogs/the_slatest/2016/03/01/hillary_clinton_plots_her_general_election_trump_strategy.html\">How Team Clinton Is Planning to Defeat Trump</a></br><a href=\"http://www.vox.com/2016/2/10/10961324/donald-trump-win-november\">Here's Donald Trump's Best Strategy for Winning the White House</a><h4>Books</h4>\rHillary Clinton - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1476751471/amhius20-20\" target=\"_blank\">Hard Choices</a></br>\rHillary Clinton - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0743222253/amhius20-20\" target=\"_blank\">Living History</a></br>\rDonald Trump - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1501137964/amhius20-20\" target=\"_blank\">Crippled America: How to Make America Great Again</a></br>\rDonald Trump - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0399594493/amhius20-20\" target=\"_blank\">The Art of the Deal</a></br>\rGary Johnson - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B008PXW0C0/amhius20-20\" target=\"_blank\">Seven Principles of Good Government</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/2012-no-majority.jpg",
-       "creator":"Dan Bryan"
-
+      "recommended_reading": "…"
     }
   },
   {
@@ -50,14 +43,11 @@
     "pk": 3,
     "fields": {
       "year": 2012,
-      "summary": "<p>Barack Obama attempts to win reelection while Mitt Romney hopes to bring a more conservative vision to the White House. The poor economy and Obama's signature health care initiatives loom large in the 2012 election.</p> <ul><li>Obama will attempt to make the case that his stewardship prevented economic disaster after the 2008 financial crisis.</li><li>Romney will try to frame his business and executive experience as a contrast to the background and results of Obama.</li></ul>",
+      "summary": "<p>巴拉克·奥巴马寻求连任，而米特·罗姆尼则希望为白宫带来更保守的愿景。疲弱的经济和奥巴马的医保改革在2012年大选中成为关键议题。</p><ul><li>奥巴马将试图证明，他的执政避免了2008年金融危机后可能出现的经济灾难。</li><li>罗姆尼将强调自己的商业和行政经验，以与奥巴马的背景和执政成果形成对比。</li></ul>",
       "image_url": "../static/images/2012-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/carville-rove.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Political News and Analysis</h4> <a href=\"http://www.realclearpolitics.com/\" target=\"_blank\">Real Clear Politics</a> -- <a href=\"http://www.theatlantic.com/\" target=\"_blank\">The Atlantic</a> -- <a href=\"http://www.politico.com/\" target=\"_blank\">Politico</a> -- <a href=\"http://www.huffingtonpost.com/\" target=\"_blank\">Huffington Post</a> -- <a href=\"http://www.foxnews.com/politics/index.html\" target=\"_blank\">Fox News Politics</a> <h4>Books by the Candidates</h4>Barack Obama - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1400082773/amhius20-20\" target=\"_blank\">Dreams from My Father: A Story of Race and Inheritance</a><br>Barack Obama - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0307455874/amhius20-20\" target=\"_blank\">The Audacity of Hope: Thoughts on Reclaiming the American Dream (Vintage)</a><br> Mitt Romney - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0312671733/amhius20-20\" target=\"_blank\">No Apology: Believe in America</a><br> Gary Johnson - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B008PXW0C0/amhius20-20\" target=\"_blank\">Seven Principles of Good Government</a><h4>Politics in 2012</h4> Edward Klein - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1596987855/amhius20-20\" target=\"_blank\">The Amateur</a><br>Michael Kranish & Scott Helman - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0062123289/amhius20-20\" target=\"_blank\">The Real Romney</a><br>Lawrence Lessig - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0446576433/amhius20-20\" target=\"_blank\">Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It</a><br>Ron Suskind - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0061429252/amhius20-20\" target=\"_blank\">Confidence Men: Wall Street, Washington, and the Education of a President</a><h4>The Financial Crisis</h4> Johan Norberg - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1935308130/amhius20-20\" target=\"_blank\">Financial Fiasco: How America's Infatuation with Home Ownership and Easy Money Created the Economic Crisis</a><br>John Bellamy Foster & Fred Magdoff - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1583671846/amhius20-20\" target=\"_blank\">The Great Financial Crisis: Causes and Consequences</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/2012-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -65,14 +55,11 @@
     "pk": 9,
     "fields": {
       "year": 2000,
-      "summary": "<p>George W. Bush attempts to chart a new direction for the U.S., while Al Gore tries to win election as the sitting Vice President. Ralph Nader is a leftist third-party candidate. The economy has been booming, until quite recently, but President Clinton has been through an embarrassing scandal.</p><p>Candidates will debate what to do with a $200 billion budget surplus, among other things. In the real world, Florida was decided by 537 votes after 36 days and a Supreme Court decision.</p>",
+      "summary": "<p>乔治·W·布什试图为美国开辟一条新道路，而时任副总统阿尔·戈尔则努力赢得选举。拉尔夫·纳德作为左翼第三党候选人参选。经济直到最近都保持繁荣，但克林顿总统却陷入了令人尴尬的丑闻。</p><p>候选人们将辩论如何处理2000亿美元的预算盈余等问题。在现实中，佛罗里达州的胜负最终在36天后由最高法院的裁决决定，仅以537票之差定局。</p>",
       "image_url": "../static/images/2000-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/rove-brazile.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">The Florida Recount / 2000 Election</h4><a href=\"http://www.amazon.com/exec/obidos/ASIN/B000RH0DVM/amhius20-20\" target=”_blank”>Jeffrey Toobin - Too Close to Call: The Thirty-Six-Day Battle to Decide the 2000 Election</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/B00EMLDHFI/amhius20-20\" target=”_blank”>Andrew E. Busch & James W. Ceaser - The Perfect Tie: The True Story of the 2000 Presidential Election</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/032110028X/amhius20-20\" target=”_blank”>Larry Sabato - Overtime! The Election 2000 Thriller</a><h4>Books by the Candidates</h4><a href=\"http://www.amazon.com/exec/obidos/ASIN/B000C4SV2I/amhius20-20\" target=”_blank”>George W. Bush - A Charge to Keep: My Journey to the White House</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/0452269350/amhius20-20\" target=”_blank”>Al Gore - Earth in the Balance</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/B003YFIYWY/amhius20-20\" target=”_blank”>The Ralph Nader Reader</a><h4>Links</h4><a href=\"http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3377\" target=”_blank”>Digital History - The Disputed Election of 2000</a></br><a href=\"http://www.pbs.org/wnet/supremecourt/future/landmark_bush.html\" target=”_blank”><em>Bush v. Gore</em></a></br><a href=\"http://www.vanityfair.com/news/2004/10/florida-election-2000\" target=”_blank”>The Path to Florida</a></br><a href=\"http://www.historyplace.com/speeches/gore-concedes.htm\" target=”_blank”>Al Gore Concedes the 2000 Election</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/2012-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -80,14 +67,11 @@
     "pk": 15,
     "fields": {
       "year": 1988,
-      "summary": "<p>After eight years of Ronald Reagan, the nation seems headed for a new direction in government.</p><ul><li>George Bush is Reagan's Vice President, but trails his challenger by several points.</li><li>Michael Dukakis, Governor of Massachusetts, is a new figure on the national scene. Can he keep the good feelings going through election day?</li></ul><p>Bush must find some way to shake up the race. He could emphasize the strong economy, or attack Dukakis on a number of fronts.</p>",
+      "summary": "<p>经过罗纳德·里根八年的执政，美国似乎正走向一个新的政治方向。</p><ul><li>乔治·布什是里根的副总统，但在支持率上落后于对手。</li><li>马萨诸塞州州长迈克尔·杜卡基斯是全国舞台上的新面孔。他能否把这股良好势头保持到选举日？</li></ul><p>布什必须找到打破僵局的方法。他可能会强调强劲的经济，或者在多个方面攻击杜卡基斯。</p>",
       "image_url": "../static/images/1988-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/atwater-estrich-1988.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Books and Links</h4>Peter Goldman - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B012HU7SZA/amhius20-20\" target=\"_blank\">The Quest for the Presidency, 1988</a></br>L.A. Times, November 10, 1988 - <a href=\"http://articles.latimes.com/1988-11-10/news/mn-299_1_dukakis-lost-reelection\" target=\"_blank\">How Presidential Race Was Won-and Lost : Michael S. Dukakis</a></br>L.A. Times, November 10, 1988 - <a href=\"http://articles.latimes.com/1988-11-10/news/mn-302_1_george-bush\" target=\"_blank\">How Presidential Race Was Won--and Lost : George Bush</a></br><a href=\"http://www.usnews.com/news/articles/2008/01/17/the-photo-op-that-tanked\" target=\"_blank\">Michael Dukakis: The Photo Op That Tanked</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/2012-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -95,14 +79,11 @@
     "pk": 10,
     "fields": {
       "year": 1976,
-      "summary": "<p>President Gerald Ford attempts to win election to office after replacing Richard Nixon in 1974, and narrowly defeating Ronald Reagan for the Republican nomination. Jimmy Carter is a new face on the national scene, having served as Governor of Georgia. He will make the case that the nation needs new blood after the scandals of the Nixon era. Both candidates are seen as moderate by the standards of their party. The battleground states are in the West, the Midwest, and the Northeast.</p>",
+      "summary": "<p>在1974年接替尼克松担任总统、并在共和党内险胜里根后，杰拉尔德·福特试图赢得连任。吉米·卡特作为新面孔进入全国舞台，他曾任佐治亚州州长。他将主张国家需要在尼克松时代丑闻之后注入新鲜血液。按照两党标准，两位候选人都被视为温和派。关键战场州集中在西部、中西部和东北部。</p>",
       "image_url": "../static/images/1976-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/jordan-cheney-1976.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">1976 Election Books and Biographies</h4><a href=\"http://www.amazon.com/exec/obidos/ASIN/0670454613/amhius20-20\" target=\"_blank\">Jules Witcover - Marathon: The Pursuit of the Presidency, 1972-1976</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/1590843630/amhius20-20\" target=\"_blank\">The Election of 1976 and the Administration of Jimmy Carter</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/B007V955ZS/amhius20-20\" target=\"_blank\">Craig Shirley - Reagan's Revolution: The Untold Story of the Campaign That Started It All</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/B001KBY7YI/amhius20-20\" target=\"_blank\">Douglas Brinkley - Gerald R. Ford</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/0805089578/amhius20-20\" target=\"_blank\">Julian E. Zelizer - Jimmy Carter</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/2012-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -110,14 +91,11 @@
     "pk": 4,
     "fields": {
       "year": 1968,
-      "summary": "<p>The 1968 election enters its final stretch in chaos. Riots are a frequent occurrence as the Vietnam War divides the nation, and Johnson's \"Great Society\" is under full attack.</p> <ul><li>Nixon attempts to present himself as a law-and-order candidate who will bear the standard of Republicanism.</li><li>Humphrey tries to hold the line for liberalism in a year of social chaos and racial agitation.</li> <li>Wallace hopes to bring an end to Civil Rights and desegregation.</ul>",
+      "summary": "<p>1968年的大选在混乱中进入最后阶段。骚乱频发，越南战争分裂了整个国家，约翰逊的“伟大社会”政策遭到猛烈抨击。</p><ul><li>尼克松试图将自己塑造成一位“法律与秩序”的候选人，代表共和党发声。</li><li>韩弗莱努力在社会动荡和种族矛盾之年捍卫自由主义的阵地。</li><li>华莱士希望终结民权运动和废除种族隔离。</li></ul>",
       "image_url": "../static/images/1968-election-photo.jpg",
       "winning_electoral_vote_number": 270,
       "advisor_url": "../static/images/haldeman-mondale.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4><a href=\"http://uselectionatlas.org/RESULTS/national.php?year=1968\" target=\"_blank\">Final 1968 Results</a><br>Theodore White - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0061900648/amhius20-20\" target=\"_blank\">The Making of the President 1968 (Landmark Political)</a><br>Rick Perlstein - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B003E7ET0S/amhius20-20\" target=\"_blank\">Nixonland: The Rise of a President and the Fracturing of America</a><br><h4>By the Candidates</h4>Richard Nixon - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0448143747/amhius20-20\" target=\"_blank\">The Memoirs of Richard Nixon</a><br>Hubert Humphrey - <a href=\"http://www.youtube.com/watch?v=8nwIdIUVFm4\" target=\"_blank\">1948 Civil Rights speech</a><br>George Wallace - <a href=\"https://www.youtube.com/watch?v=DcNv4aQI_QQ\" target=\"_blank\">1967 speech on dissent and intellectualism</a><br><h4>The Vietnam War</h4> Stanley Karnow - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0140265473/amhius20-20\" target=\"_blank\" >Vietnam: A History</a><h4>Misceallany</h4><a href=\"http://www.jahrbuch2001.studien-von-zeitfragen.net/Weltmacht/Secret_of__68/secret_of__68.html\" target=\"_blank\">Secret of '68</a><br><a href=\"http://www.propublica.org/article/living-apart-how-the-government-betrayed-a-landmark-civil-rights-law\" target=\"_blank\">Living Apart: How the Government Betrayed a Landmark Civil Rights Law</a><br><a href=\"http://www.nytimes.com/2012/09/05/business/the-gops-journey-from-the-liberal-days-of-nixon.html\" target=\"_blank\">The G.O.P.'s Journey From the Liberal Days of Nixon</a><br><a href=\"http://www.umich.edu/~lawrace/votetour10.htm\" target=\"_blank\">George Wallace and the 1968 Election</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1968-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -125,14 +103,11 @@
     "pk": 69,
     "fields": {
       "year": 1964,
-      "summary": "America in 1964 stands unsettled, memories of the beloved late John F. Kennedy still prominent in the nation's memory. As the nation recovers from the shock of November 1963, the 1964 campaign is just beginning, with questions swirling around America’s course in Vietnam, Social Security, and Civil Rights, among others.<li>Lyndon B. Johnson aims to maintain his large lead in the polls, defending his policies while keeping both integrationist and segregationist voters of the Democratic Party on board.</li><li>Barry Goldwater hopes to make up ground quickly, reuniting his party behind his conservative vision after a contentious primary, as well as flipping the South for the first time since Reconstruction.</li>",
+      "summary": "<p>1964年的美国仍不安定，已故的约翰·F·肯尼迪仍然留在人们的集体记忆中。在经历了1963年11月的震惊后，全国仍在恢复中，而1964年的大选刚刚拉开帷幕。美国在越南、社会保障和民权等问题上的走向充满疑问。</p><ul><li>林登·B·约翰逊试图保持自己在民调中的巨大领先优势，捍卫其政策，同时团结民主党内支持种族融合与反对融合的选民。</li><li>巴里·戈德华特希望迅速缩小差距，在一场激烈的初选后重新团结共和党，推动其保守主义愿景，并首次自重建以来赢得南方。</li></ul>",
       "image_url": "https://i.imgur.com/zHVrIgV.png",
       "winning_electoral_vote_number": 270,
       "advisor_url": "https://i.imgur.com/RsnpYGz.png",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4><a href=\"http://uselectionatlas.org/RESULTS/national.php?year=1968\" target=\"_blank\">Final 1968 Results</a><br>Theodore White - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0061900648/amhius20-20\" target=\"_blank\">The Making of the President 1968 (Landmark Political)</a><br>Rick Perlstein - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B003E7ET0S/amhius20-20\" target=\"_blank\">Nixonland: The Rise of a President and the Fracturing of America</a><br><h4>By the Candidates</h4>Richard Nixon - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0448143747/amhius20-20\" target=\"_blank\">The Memoirs of Richard Nixon</a><br>Hubert Humphrey - <a href=\"http://www.youtube.com/watch?v=8nwIdIUVFm4\" target=\"_blank\">1948 Civil Rights speech</a><br>George Wallace - <a href=\"https://www.youtube.com/watch?v=DcNv4aQI_QQ\" target=\"_blank\">1967 speech on dissent and intellectualism</a><br><h4>The Vietnam War</h4> Stanley Karnow - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0140265473/amhius20-20\" target=\"_blank\" >Vietnam: A History</a><h4>Misceallany</h4><a href=\"http://www.jahrbuch2001.studien-von-zeitfragen.net/Weltmacht/Secret_of__68/secret_of__68.html\" target=\"_blank\">Secret of '68</a><br><a href=\"http://www.propublica.org/article/living-apart-how-the-government-betrayed-a-landmark-civil-rights-law\" target=\"_blank\">Living Apart: How the Government Betrayed a Landmark Civil Rights Law</a><br><a href=\"http://www.nytimes.com/2012/09/05/business/the-gops-journey-from-the-liberal-days-of-nixon.html\" target=\"_blank\">The G.O.P.'s Journey From the Liberal Days of Nixon</a><br><a href=\"http://www.umich.edu/~lawrace/votetour10.htm\" target=\"_blank\">George Wallace and the 1968 Election</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1968-no-majority.jpg",
-      "creator":"T3CHOX"
+      "recommended_reading": "…"
     }
   },
   {
@@ -140,14 +115,11 @@
     "pk": 11,
     "fields": {
       "year": 1960,
-      "summary": "<p>After eight years of Dwight Eisenhower, two youthful candidates compete to be his successor. Kennedy is a Senator with a moderate record, a telegenic face, and high-minded rhetoric. Nixon is the sitting Vice President with a strong Cold War record, moderate economic views, and potential likeability problems. Nixon begins the campaign as the slight favorite, but every region of the country could be competitive. Key issues are the Cold War, civil rights, and health care.</p>",
+      "summary": "<p>在德怀特·艾森豪威尔八年任期后，两位年轻的候选人争夺继任者地位。肯尼迪是一位拥有中间派记录的参议员，长相俊朗，言辞高远。尼克松是现任副总统，拥有冷战时期的强硬履历、中间派经济主张，但可能存在受欢迎度问题。尼克松在竞选初期略占优势，但全国各地都可能成为竞争激烈的战场。关键议题包括冷战、民权以及医疗保健。</p>",
       "image_url": "../static/images/1960-election-photo.jpg",
       "winning_electoral_vote_number": 269,
       "advisor_url": "../static/images/kennedy-haldeman-1960.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">1960 Election Books and Links</h4>David Pietrusza - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1402777469/amhius20-20\" target=\"_blank\">1960--LBJ vs. JFK vs. Nixon: The Epic Campaign That Forged Three Presidencies</a></br>Theodore White - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0061900605/amhius20-20\" target=\"_blank\">The Making of the President 1960</a></br>W. J. Rorabaugh - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0700618872/amhius20-20\" target=\"_blank\">The Real Making of the President: Kennedy, Nixon, and the 1960 Election</a></br><a href=\"http://www.davidpietrusza.com/1960-cast-of-characters.html\" target=\"_blank\">1960 Cast of Characters</a></br><a href=\"https://www.youtube.com/watch?v=gbrcRKqLSRw\" target=\"_blank\">First Kennedy-Nixon Debate (video)</a></br><a href=\"https://www.youtube.com/watch?v=_CtSW-HQlxQ\" target=\"_blank\">The Making of the President 1960 (video documentary, 1963)</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1960-no-majority-photo.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -155,14 +127,11 @@
     "pk": 12,
     "fields": {
       "year": 1948,
-      "summary": "<p>The 1948 election begins with President Truman trailing badly in the polls. Thomas Dewey, loser in 1944, is widely expected to redeem himself this time around. Truman not only has to deal with Dewey, a moderate Republican, but also with two splinter candidates. Henry Wallace is a far-left candidate with the Progressive Party, while Strom Thurmond runs as a Dixiecrat. Some hot issues are the Soviet Union, civil rights, the \"Do-Nothing\" Congress, and the Taft-Hartley Act.</p>",
+      "summary": "<p>1948年的选举一开始，杜鲁门总统在民调中大幅落后。1944年的失败者托马斯·杜威被普遍认为这次将实现逆转。杜鲁门不仅要面对这位温和的共和党人杜威，还要应对两位分裂出来的候选人。亨利·华莱士代表进步党参选，是一位极左候选人，而斯特罗姆·瑟蒙德则以“迪克西党人”的身份参选。一些热门议题包括苏联、民权、“不作为的国会”以及《塔夫脱–哈特利法案》。</p>",
       "image_url": "../static/images/1948-election-photo.jpg",
       "winning_electoral_vote_number": 266,
       "advisor_url": "../static/images/clifford-bridges-1948.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">1948 Election Books and Links</h4>David McCullough - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B000FC0VVQ/amhius20-20\" target=\"_blank\">Truman</a></br>Andrew E. Busch - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0700618678/amhius20-20\" target=\"_blank\">Truman's Triumphs: The 1948 Election and the Making of Postwar America</a></br>David Pietruza - <a href=\"http://www.amazon.com/exec/obidos/ASIN/140276748X/amhius20-20\" target=\"_blank\">1948: Harry Truman's Improbable Victory and the Year that Transformed America</a></br>Richard Norton Smith - <a href=\"http://www.amazon.com/exec/obidos/ASIN/067141741X/amhius20-20\" target=\"_blank\">Thomas E. Dewey and His Times</a></br><a href=\"https://www.youtube.com/watch?v=rJABgG4YDwM\" target=\"_blank\">The 1948 Democratic Convention (newsreel footage)</a></br><a href=\"https://www.youtube.com/watch?v=ogg9YsxGQm4\" target=\"_blank\">The 1948 Republican Convention (newsreel footage)</a></br><a href=\"https://www.youtube.com/watch?v=LW2ae0Fznwg\" target=\"_blank\">The 1948 Election Explained (video)</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1960-no-majority-photo.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -170,14 +139,11 @@
     "pk": 14,
     "fields": {
       "year": 1916,
-      "summary": "<p>War rages in Europe, while Woodrow Wilson has used his first term to push a number of progressive laws, such as the income tax and Federal Reserve. Charles Evans Hughes has resigned from the Supreme Court to unite his party and deny a second term.</p><ul><li>Wilson will emphasize the U.S. non-involvement with World War I, and his legislative achievements.</li><li>Hughes must balance the Old Guard and Progressive wings of his own party -- or cast one overboard entirely.</li></ul>",
+      "summary": "<p>欧洲战火纷飞，而伍德罗·威尔逊在第一任期内推动了一系列进步法律，例如所得税和联邦储备制度。查尔斯·埃文斯·休斯辞去最高法院职务，试图团结共和党并阻止威尔逊连任。</p><ul><li>威尔逊将强调美国未卷入第一次世界大战，以及他的立法成就。</li><li>休斯必须在共和党的保守派与进步派之间保持平衡，或是完全抛弃其中一方。</li></ul>",
       "image_url": "../static/images/1916-election-photo.jpg",
       "winning_electoral_vote_number": 266,
       "advisor_url": "../static/images/house-willcox-1916.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Books and Links</h4>A. Scott Berg - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0425270068/amhius20-20\" target=\"_blank\">Wilson</a></br>Arthur Link - <a href=\"B00350CVHM\" target=\"_blank\">Woodrow Wilson and the Progressive Era, 1910-1917</a></br><a href=\"https://presidentialcampaignselectionsreference.wordpress.com/overviews/20th-century/1916-overview/\" target=\"_blank\">Presidential Campaigns and Elections - 1916</a></br><a href=\"http://millercenter.org/president/biography/wilson-campaigns-and-elections\" target=\"_blank\">Woodrow Wilson's Campaigns</a></br><a href=\"http://articles.latimes.com/2005/oct/23/opinion/oe-shaffer23\" target=\"_blank\">The Great GOP Spat -- of 1916</a></br><a href=\"http://maxkade.iupui.edu/adams/chap8.html\" target=\"_blank\">German-Americans as Voters and Office-Seekers</a></br><a href=\"http://www.jstor.org/stable/1900319?seq=1#page_scan_tab_contents\">Woodrow Wilson, Irish-Americans, and the Election of 1916</a></br><a href=\"https://feminist.org/blog/index.php/2014/07/08/july-8-1916-alice-paul-pushes-presidential-nominee-to-support-suffrage/\" target=\"_blank\">July 8, 1916: Alice Paul Pushes Presidential Nominee to Support Suffrage</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -185,14 +151,11 @@
     "pk": 5,
     "fields": {
       "year": 1896,
-      "summary": "<p>William McKinley runs as the establishment Republican while William Jennings Bryan brings a radically different agenda to the race. The bad economy and the coinage of silver dominate discussion.</p><ul><li>McKinley will make the case for traditional Republican policies, including a strong defense of the gold standard.</li><li>Bryan will state that there can be no relief for debtors or the larger economy without inflation, which he hopes to bring about via \"free silver\".</li></ul>",
+      "summary": "<p>威廉·麦金莱以共和党建制派身份参选，而威廉·詹宁斯·布莱恩则提出了一套截然不同的纲领。糟糕的经济和货币银本位之争成为辩论焦点。</p><ul><li>麦金莱将为传统的共和党政策辩护，包括坚决支持金本位制。</li><li>布莱恩则主张，若没有通胀，债务人和整体经济都无法获得缓解，他希望通过“自由铸银”来实现这一点。</li></ul>",
       "image_url": "../static/images/1896-election-photo.jpg",
       "winning_electoral_vote_number": 224,
       "advisor_url": "../static/images/hanna-jones.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4>  <a href=\"http://www.uselectionatlas.org/RESULTS/national.php?f=0&year=1896\" target=\"_blank\">Final 1896 Results</a> <br> <a href=\"http://projects.vassar.edu/1896/1896home.html\" target=\"_blank\">1896 Election -- Overview and Political Cartoons</a> <br>  <h4>By the Candidates</h4>  William Jennings Bryan - <a href=\"http://books.google.com/books/about/The_first_battle.html?id=9k4TAAAAYAAJ\" target=\"_blank\">The First Battle: A story of the campaign of 1896</a> <br>  William Jennings Bryan - <a href=\"http://www.youtube.com/watch?v=Ydrq2-j92cU\" target=\"_blank\">\"Cross of Gold\" speech</a> <br>  William McKinley - <a href=\"http://www.youtube.com/watch?v=m6ZUneyU7Vo\" target=\"_blank\">\"Front Porch\" speech</a> <br>  <h4>The Panic of 1893</h4> <a href=\"http://www.youtube.com/watch?v=Qu_b6N-G1Os\" target=\"_blank\">The Panic of 1893 with Lawrence Reed</a> (video) <br> <a href=\"http://eh.net/encyclopedia/article/Whitten.panic.1893\" target=\"_blank\">The Depression of 1893</a>  <h4>Misceallany</h4> <a href=\"http://www.oyez.org/cases/1851-1900/1895/1895_210/\" target=\"_blank\">Plessy v. Ferguson</a> <br> <a href=\"http://www.stfrancis.edu/content/ba/ghkickul/stuwebs/btopics/works/PullmanStrike.htm\" target=\"_blank\">Pullman Strike of 1894</a> <br> <a href=\"http://en.wikipedia.org/wiki/Wilson%E2%80%93Gorman_Tariff_Act\" target=\"_blank\">Wilson-Gorman Tariff</a> <br> <a href=\"http://prosperityuk.com/2001/01/a-wonderful-wizard-of-oz-a-monetary-reform-parable/\" target=\"_blank\">The Wonderful Wizard of Oz - A Monetary Reform Parable</a>",
-      "has_visits": 0,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -200,74 +163,11 @@
     "pk": 8,
     "fields": {
       "year": 1860,
-      "summary": "<p>Abraham Lincoln runs as the Republican against his rival Stephen A. Douglas. Slavery is the dominant issue and has caused two splinter candidates to step forward -- Breckinridge and Bell -- both with Southern roots.</p><ul><li>Lincoln begins with the lead, and must simply hold his Northern coalition together to take the victory.</li><li>The other three candidates must find some way to prevent a Lincoln victory. In that case, the House of Representatives will choose.</li>\r</ul>",
+      "summary": "<p>亚伯拉罕·林肯以共和党候选人身份参选，对手是斯蒂芬·A·道格拉斯。奴隶制问题主导了整个选举，并促使两位南方背景的分裂候选人参选——布雷肯里奇和贝尔。</p><ul><li>林肯一开始处于领先，只需稳住北方联盟即可获胜。</li><li>其余三位候选人必须找到阻止林肯获胜的办法，否则选举将交由众议院决定。</li></ul>",
       "image_url": "../static/images/1860-election-photo.jpg",
       "winning_electoral_vote_number": 152,
       "advisor_url": "../static/images/davis-belmont.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4>\rDavid Herbert Donald - <a href=\"http://www.amazon.com/exec/obidos/ASIN/068482535X/amhius20-20\">Lincoln</a><br>\rRobert W. Johannsen - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0252066359/amhius20-20\">Stephen A. Douglas</a><br>\rHarriet Jacobs - <a href=http://docsouth.unc.edu/fpn/jacobs/jacobs.html\">Incidents in the Life of a Slave Girl</a><br>\rSolomon Northup - <a href=\"http://docsouth.unc.edu/fpn/northup/northup.html\">Twelve Years a Slave</a><br>\r<a href=\"https://suite.io/michael-streich/3cr92nv\">Abraham Lincoln, Stephen Douglas, and the Election of 1860</a><br>\r<a href=\"http://www.greatamericanhistory.net/nomination.htm\">How Lincoln Won the 1860 Republican Nomination</a><br>\r<a href=\"http://flattopshistorywarpolitics.yuku.com/topic/619/John-Bell-for-president-1860#.U8BmbY1dVZ0\">John Bell for President, 1860</a><br>\r<a href=\"http://faculty.virginia.edu/jajenkins/ES.pdf\">Running to Lose? The Candidacy of John C. Breckinridge</a>",
-      "has_visits": 0,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
-    }
-  },
-  {
-    "model": "campaign_trail.election",
-    "pk": 12,
-    "fields": {
-      "year": 1948,
-      "summary": "<p>The 1948 election begins with President Truman trailing badly in the polls. Thomas Dewey, loser in 1944, is widely expected to redeem himself this time around. Truman not only has to deal with Dewey, a moderate Republican, but also with two splinter candidates. Henry Wallace is a far-left candidate with the Progressive Party, while Strom Thurmond runs as a Dixiecrat. Some hot issues are the Soviet Union, civil rights, the \"Do-Nothing\" Congress, and the Taft-Hartley Act.</p>",
-      "image_url": "../static/images/1948-election-photo.jpg",
-      "winning_electoral_vote_number": 266,
-      "advisor_url": "../static/images/clifford-bridges-1948.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">1948 Election Books and Links</h4>David McCullough - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B000FC0VVQ/amhius20-20\" target=\"_blank\">Truman</a></br>Andrew E. Busch - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0700618678/amhius20-20\" target=\"_blank\">Truman's Triumphs: The 1948 Election and the Making of Postwar America</a></br>David Pietruza - <a href=\"http://www.amazon.com/exec/obidos/ASIN/140276748X/amhius20-20\" target=\"_blank\">1948: Harry Truman's Improbable Victory and the Year that Transformed America</a></br>Richard Norton Smith - <a href=\"http://www.amazon.com/exec/obidos/ASIN/067141741X/amhius20-20\" target=\"_blank\">Thomas E. Dewey and His Times</a></br><a href=\"https://www.youtube.com/watch?v=rJABgG4YDwM\" target=\"_blank\">The 1948 Democratic Convention (newsreel footage)</a></br><a href=\"https://www.youtube.com/watch?v=ogg9YsxGQm4\" target=\"_blank\">The 1948 Republican Convention (newsreel footage)</a></br><a href=\"https://www.youtube.com/watch?v=LW2ae0Fznwg\" target=\"_blank\">The 1948 Election Explained (video)</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1960-no-majority-photo.jpg",
-      "creator":"Dan Bryan"
-    }
-  },
-  {
-    "model": "campaign_trail.election",
-    "pk": 14,
-    "fields": {
-      "year": 1916,
-      "summary": "<p>War rages in Europe, while Woodrow Wilson has used his first term to push a number of progressive laws, such as the income tax and Federal Reserve. Charles Evans Hughes has resigned from the Supreme Court to unite his party and deny a second term.</p><ul><li>Wilson will emphasize the U.S. non-involvement with World War I, and his legislative achievements.</li><li>Hughes must balance the Old Guard and Progressive wings of his own party -- or cast one overboard entirely.</li></ul>",
-      "image_url": "../static/images/1916-election-photo.jpg",
-      "winning_electoral_vote_number": 266,
-      "advisor_url": "../static/images/house-willcox-1916.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Books and Links</h4>A. Scott Berg - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0425270068/amhius20-20\" target=\"_blank\">Wilson</a></br>Arthur Link - <a href=\"B00350CVHM\" target=\"_blank\">Woodrow Wilson and the Progressive Era, 1910-1917</a></br><a href=\"https://presidentialcampaignselectionsreference.wordpress.com/overviews/20th-century/1916-overview/\" target=\"_blank\">Presidential Campaigns and Elections - 1916</a></br><a href=\"http://millercenter.org/president/biography/wilson-campaigns-and-elections\" target=\"_blank\">Woodrow Wilson's Campaigns</a></br><a href=\"http://articles.latimes.com/2005/oct/23/opinion/oe-shaffer23\" target=\"_blank\">The Great GOP Spat -- of 1916</a></br><a href=\"http://maxkade.iupui.edu/adams/chap8.html\" target=\"_blank\">German-Americans as Voters and Office-Seekers</a></br><a href=\"http://www.jstor.org/stable/1900319?seq=1#page_scan_tab_contents\">Woodrow Wilson, Irish-Americans, and the Election of 1916</a></br><a href=\"https://feminist.org/blog/index.php/2014/07/08/july-8-1916-alice-paul-pushes-presidential-nominee-to-support-suffrage/\" target=\"_blank\">July 8, 1916: Alice Paul Pushes Presidential Nominee to Support Suffrage</a>",
-      "has_visits": 1,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
-    }
-  },
-  {
-    "model": "campaign_trail.election",
-    "pk": 5,
-    "fields": {
-      "year": 1896,
-      "summary": "<p>William McKinley runs as the establishment Republican while William Jennings Bryan brings a radically different agenda to the race. The bad economy and the coinage of silver dominate discussion.</p><ul><li>McKinley will make the case for traditional Republican policies, including a strong defense of the gold standard.</li><li>Bryan will state that there can be no relief for debtors or the larger economy without inflation, which he hopes to bring about via \"free silver\".</li></ul>",
-      "image_url": "../static/images/1896-election-photo.jpg",
-      "winning_electoral_vote_number": 224,
-      "advisor_url": "../static/images/hanna-jones.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4>  <a href=\"http://www.uselectionatlas.org/RESULTS/national.php?f=0&year=1896\" target=\"_blank\">Final 1896 Results</a> <br> <a href=\"http://projects.vassar.edu/1896/1896home.html\" target=\"_blank\">1896 Election -- Overview and Political Cartoons</a> <br>  <h4>By the Candidates</h4>  William Jennings Bryan - <a href=\"http://books.google.com/books/about/The_first_battle.html?id=9k4TAAAAYAAJ\" target=\"_blank\">The First Battle: A story of the campaign of 1896</a> <br>  William Jennings Bryan - <a href=\"http://www.youtube.com/watch?v=Ydrq2-j92cU\" target=\"_blank\">\"Cross of Gold\" speech</a> <br>  William McKinley - <a href=\"http://www.youtube.com/watch?v=m6ZUneyU7Vo\" target=\"_blank\">\"Front Porch\" speech</a> <br>  <h4>The Panic of 1893</h4> <a href=\"http://www.youtube.com/watch?v=Qu_b6N-G1Os\" target=\"_blank\">The Panic of 1893 with Lawrence Reed</a> (video) <br> <a href=\"http://eh.net/encyclopedia/article/Whitten.panic.1893\" target=\"_blank\">The Depression of 1893</a>  <h4>Misceallany</h4> <a href=\"http://www.oyez.org/cases/1851-1900/1895/1895_210/\" target=\"_blank\">Plessy v. Ferguson</a> <br> <a href=\"http://www.stfrancis.edu/content/ba/ghkickul/stuwebs/btopics/works/PullmanStrike.htm\" target=\"_blank\">Pullman Strike of 1894</a> <br> <a href=\"http://en.wikipedia.org/wiki/Wilson%E2%80%93Gorman_Tariff_Act\" target=\"_blank\">Wilson-Gorman Tariff</a> <br> <a href=\"http://prosperityuk.com/2001/01/a-wonderful-wizard-of-oz-a-monetary-reform-parable/\" target=\"_blank\">The Wonderful Wizard of Oz - A Monetary Reform Parable</a>",
-      "has_visits": 0,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
-    }
-  },
-  {
-    "model": "campaign_trail.election",
-    "pk": 8,
-    "fields": {
-      "year": 1860,
-      "summary": "<p>Abraham Lincoln runs as the Republican against his rival Stephen A. Douglas. Slavery is the dominant issue and has caused two splinter candidates to step forward -- Breckinridge and Bell -- both with Southern roots.</p><ul><li>Lincoln begins with the lead, and must simply hold his Northern coalition together to take the victory.</li><li>The other three candidates must find some way to prevent a Lincoln victory. In that case, the House of Representatives will choose.</li>\r</ul>",
-      "image_url": "../static/images/1860-election-photo.jpg",
-      "winning_electoral_vote_number": 152,
-      "advisor_url": "../static/images/davis-belmont.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4>\rDavid Herbert Donald - <a href=\"http://www.amazon.com/exec/obidos/ASIN/068482535X/amhius20-20\">Lincoln</a><br>\rRobert W. Johannsen - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0252066359/amhius20-20\">Stephen A. Douglas</a><br>\rHarriet Jacobs - <a href=http://docsouth.unc.edu/fpn/jacobs/jacobs.html\">Incidents in the Life of a Slave Girl</a><br>\rSolomon Northup - <a href=\"http://docsouth.unc.edu/fpn/northup/northup.html\">Twelve Years a Slave</a><br>\r<a href=\"https://suite.io/michael-streich/3cr92nv\">Abraham Lincoln, Stephen Douglas, and the Election of 1860</a><br>\r<a href=\"http://www.greatamericanhistory.net/nomination.htm\">How Lincoln Won the 1860 Republican Nomination</a><br>\r<a href=\"http://flattopshistorywarpolitics.yuku.com/topic/619/John-Bell-for-president-1860#.U8BmbY1dVZ0\">John Bell for President, 1860</a><br>\r<a href=\"http://faculty.virginia.edu/jajenkins/ES.pdf\">Running to Lose? The Candidacy of John C. Breckinridge</a>",
-      "has_visits": 0,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   },
   {
@@ -275,14 +175,11 @@
     "pk": 13,
     "fields": {
       "year": 1844,
-      "summary": "<p>President Tyler has defined the key issue of this election with his proposed annexation of Texas. James K. Polk, the Democrat, gained his nomination by favoring the measure. Henry Clay, the Whig, has more latitude.</p><p>The Liberty Party lurks as an abolitionist third party, and will pressure the Whigs. Conversely, John Tyler hopes to use the Texas issue to energize an independent campaign, if Polk wavers. Other campaign issues are tariffs, internal improvements, and the banking system.</p>",
+      "summary": "<p>总统泰勒以提出德克萨斯并入美国为议题，使其成为本次选举的核心。民主党人詹姆斯·K·波尔克因支持该措施而获得提名。辉格党人亨利·克莱则拥有更多操作空间。</p><p>自由党作为废奴主义的第三党徘徊在场边，对辉格党施加压力。与此同时，如果波尔克在德州问题上犹豫，约翰·泰勒希望利用该议题发动独立竞选。其他竞选议题包括关税、国内建设以及银行制度。</p>",
       "image_url": "../static/images/1844-election-photo.jpg",
       "winning_electoral_vote_number": 138,
       "advisor_url": "../static/images/kendall-weed-1844.jpg",
-      "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">General Resources</h4>\nWalter Borneman - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0812976746/amhius20-20\">Polk: The Man Who Transformed the Presidency and America</a><br>\nRobert Merry - <a href=\"http://www.amazon.com/exec/obidos/ASIN/074329744X/amhius20-20\">A Country of Vast Designs: James K. Polk, the Mexican War and the Conquest of the American Continent</a><br>\nDavid Heidler and Joanne Heidler - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0812978951/amhius20-20\">Henry Clay: The Essential American</a>",
-      "has_visits": 0,
-      "no_electoral_majority_image": "../static/images/1896-no-majority.jpg",
-      "creator":"Dan Bryan"
+      "recommended_reading": "…"
     }
   }
 ]
