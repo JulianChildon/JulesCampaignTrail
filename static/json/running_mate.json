@@ -1063,7 +1063,7 @@
       "running_mate": 308
     }
   },
-    {
+  {
     "model": "campaign_trail.running_mate",
     "pk": 205,
     "fields": {

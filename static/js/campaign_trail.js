@@ -32,19 +32,19 @@ let baseScenarioDict = {
 // Global Text Variables
 
 // Code 1 Text
-e.SelectText = "Please select the election you will run in:";
-e.CandidText = "Please select your candidate:";
-e.VpText = "Please select your running mate:";
-e.PartyText = "Party:";
-e.HomeStateText = "Home State:";
+e.SelectText = "请选择你要参与的选举年份：";
+e.CandidText = "请选择你的候选人：";
+e.VpText = "请选择你的竞选搭档：";
+e.PartyText = "党派：";
+e.HomeStateText = "家乡州：";
 // Ending Popups
-e.ElectionPopup = "Election night has arrived. Settle in and wait for the returns, however                 long it may take. Best of luck!";
-e.WinPopup = "Congratulations! You won this year's election! Click OK to view the                     rest of the returns, or skip straight to the final results. We hope                     you have a nice victory speech prepared for your supporters.";
-e.LosePopup = "Sorry. You have lost the election this time. Click OK to view the                     rest of the returns, or skip straight to the final results. We hope                     you have a nice concession speech prepared.";
+e.ElectionPopup = "选举之夜已经来临。坐下来等待结果吧，无论这需要多久。祝你好运！";
+e.WinPopup = "恭喜！您赢得了今年的大选！点击“确定”按州查看结果，或直接跳至最终结果页面。希望您为支持者准备好了一篇精彩的胜选演讲。";
+e.LosePopup = "抱歉。您这次输掉了选举。点击“确定”按州查看结果，或直接跳至最终结果页面。希望您准备了一篇体面的败选演讲。";
 
 e.finalPercentDigits = 1; // for PV % in final results
 e.statePercentDigits = 2;
-e.SelAnsContText = "Please select an answer before continuing!";
+e.SelAnsContText = "请在继续之前选择一个选项！";
 
 function substitutePlaceholders(str) {
   if (!str || typeof str !== "string") return str;
@@ -342,7 +342,7 @@ function addAchButton() {
     const stylesheetSet = "position: absolute; left: 10px; top: 5px;";
 
     achievementDiv.innerHTML = `
-      <button id='achievMenuButton' style='width:200px;height:47px;font-size:150%;text-align:center'><b>Achievements</b></button>
+      <button id='achievMenuButton' style='width:200px;height:47px;font-size:150%;text-align:center'><b>成就</b></button>
     `;
     achievementDiv.style = stylesheetSet;
 
@@ -406,12 +406,12 @@ function openAchievMenu() {
     gameWin.appendChild(achievementDiv);
 
     achievementDiv.innerHTML = `
-      <div class="inner_window_front" style="padding:0px"><b><h1>Achievements</h1></b></div>
+      <div class="inner_window_front" style="padding:0px"><b><h1>成就</h1></b></div>
       <div class="inner_window_front" style="overflow-y:scroll;height:300px;"><center>
       ${achievementHtml}</table></center>
       </div>
-      <button id='backButton' style='position: absolute;left: 1.5em;bottom:.5em;width:200px;height:50px;font-size:25px;text-align:center'><b>Back</b></button>
-      <h1 style="font-style:italic;font-size:12px;position:absolute;bottom:1.75em;right:6em;">For all achievements, unless otherwise stated, completing them must be done on normal or a harder difficulty</h1>
+      <button id='backButton' style='position: absolute;left: 1.5em;bottom:.5em;width:200px;height:50px;font-size:25px;text-align:center'><b>返回</b></button>
+      <h1 style="font-style:italic;font-size:12px;position:absolute;bottom:1.75em;right:6em;">除非另有指明，所有成就必须在【普通(Normal)】或更难的难度下完成。</h1>
     `;
 
     const tablesList = document.getElementsByTagName("table");
@@ -434,7 +434,7 @@ function addInfoButton() {
     const stylesheetSet = "position: absolute; right: 10px; top: 5px;";
 
     infoDiv.innerHTML = `
-      <button id='infoMenuButton' style='width:200px;height:25px;font-size:100%;text-align:center'><b>Additional Information</b></button>
+      <button id='infoMenuButton' style='width:200px;height:25px;font-size:100%;text-align:center'><b>附加信息说明</b></button>
     `;
     infoDiv.style = stylesheetSet;
 
@@ -449,7 +449,7 @@ function addInfoButton() {
             right: 1em;
           }
         </style>
-        <div id="last-updated-date" class="bottom-right-text" style="--bottom-right-text: 'Last updated: ${lastUpdatedDate}'"></div>
+        <div id="last-updated-date" class="bottom-right-text" style="--bottom-right-text: '最后更新于: ${lastUpdatedDate}'"></div>
       `;
     }
 
@@ -484,40 +484,40 @@ function openInfoMenu() {
 
     const textInfo = `
     <div style="text-align:left">
-      <b>Hello, and welcome to the New Campaign Trail! This is an updated version of The Campaign Trail (hence the name). What does TNCT bring that TCT doesn't? A number of new features, not limited to:</b><br /><br />
+      <b>你好，欢迎来到“新竞选之路”(The New Campaign Trail)！这是一个对经典游戏“竞选之路”的全面重制版，并针对它增加了一系列功能，包括但不限于：</b><br /><br />
 
       <ul>
-        <li>A mod loader/library, allowing many of the mods made by our fabulous community to be played/compiled</li>
-        <li>Faster processing times, so you don't have to sit there forever while the game says <i>Processing Results, wait one moment...</i></li>
-        <li>Achievements, for if you want to challenge yourself and memorialize unique results.</li>
-        <li>Ending codes, a functionality of scenarios that allows the end screen to be altered depending on different factors like electoral and popular vote.</li>
+        <li>一个模组加载器（组件库），允许玩家游玩我们出色社区制作的数百个自定义模组</li>
+        <li>极快的数据处理速度，你再也不用盯着屏幕枯等 <i>“正在处理结果，请稍候...”</i> 了</li>
+        <li>成就系统，为那些喜欢挑战自我以及纪念独特选举路线的硬核玩家而设。</li>
+        <li>结局代码功能。该功能允许剧本根据各种因素（如赢得选举人票数的规模或普选票差）动态改变最终画面的播报与文本。</li>
       </ul>
 
-      <p>I could go on, but I think you get the point. We hope you enjoy playing it as much as we do. If you run into any issues, please either report them on the TNCT Github, or Discord server, both linked below at the bottom of the screen.</p>
+      <p>我们希望你能享受这一游玩体验。如果遇到任何问题或错误，请务必通过页面底部的 Github 直接反馈或在我们的 Discord 服务器里报告。</p>
 
-      <h3>Credits:</h3>
+      <h3>演职员表(Credits):</h3>
       <ul>
-        <li>Dan Bryan (Original Site)</li>
-        <li>DecstarG (Lead Dev)</li>
-        <li>Danxv33 (Assistant Dev)</li>
-        <li>ItsAstronomical (Community Manager)</li>
-        <li>T3CH0X (Dev)</li>
-        <li><a href="https://discord.gg/thecampaigntrail" target="_blank">The Campaign Trail Discord</a></li>
-        <li><a href="https://reddit.com/r/thecampaigntrail/" target="_blank">r/thecampaigntrail</a></li>
+        <li>Dan Bryan (原版网站开发者)</li>
+        <li>DecstarG (NCT 首席开发)</li>
+        <li>Danxv33 (NCT 助理开发)</li>
+        <li>ItsAstronomical (NCT 社区经理)</li>
+        <li>T3CH0X (NCT 开发人员)</li>
+        <li><a href="https://discord.gg/thecampaigntrail" target="_blank">竞选之路官方 Discord 群组</a></li>
+        <li><a href="https://reddit.com/r/thecampaigntrail/" target="_blank">Reddit r/thecampaigntrail 社区</a></li>
       </ul>
 
-      <h3>Recent patch notes:</h3>
-      <p>Added <a href="https://www.reddit.com/r/thecampaigntrail/comments/1kqpl9o/nct_and_cts_update_variables_in/" target="_blank">support for variables to be used in Questions/Answers/Advisor Feedback</a>.</p>
+      <h3>最近更新说明：</h3>
+      <p>添加了 <a href="https://www.reddit.com/r/thecampaigntrail/comments/1kqpl9o/nct_and_cts_update_variables_in/" target="_blank">对在问题/答案/顾问反馈中使用变量的支持</a>。</p>
     </div>
     `;
 
     const infoBox = document.getElementById("infoBox");
     infoBox.innerHTML = `
-      <div class="inner_window_front" style="padding:0"><b><h1>Welcome to the New Campaign Trail!</h1></b></div>
+      <div class="inner_window_front" style="padding:0"><b><h1>欢迎来到新竞选之路！</h1></b></div>
       <div class="inner_window_front" style="padding:1em;overflow-y:scroll;height:300px;"><center>
       ${textInfo}</table></center>
       </div>
-      <button id='backButton' style='position: absolute;left: 1.5em;bottom:.5em;width:200px;height:50px;font-size:25px;text-align:center'><b>Back</b></button>
+      <button id='backButton' style='position: absolute;left: 1.5em;bottom:.5em;width:200px;height:50px;font-size:25px;text-align:center'><b>返回</b></button>
     `;
 
     const backButton = document.getElementById("backButton");
@@ -768,10 +768,10 @@ function switchPV() {
     swE = document.getElementById("switchingEst")
     if (swE.innerHTML == rrr) {
         swE.innerHTML = slrr
-        pvswitcher.innerText = "PV Estimate"
+        pvswitcher.innerText = "普选票预估"
     } else {
         swE.innerHTML = rrr
-        pvswitcher.innerText = "Switch to State Estimate"
+        pvswitcher.innerText = "切换至 州选票预估"
     }
     document.getElementById("ev_est").style.display = ""
 }
@@ -1636,12 +1636,24 @@ function divideElectoralVotesProp(e, t) {
     }
 
     function election_HTML(id, cand, running_mate) {
+        var fixName = function(n) {
+            var map = {
+                "拜登": "Biden", "特朗普": "Trump",
+                "哈里斯": "Harris", "彭斯": "Pence",
+                "赖斯": "Rice", "巴斯": "Bass",
+                "惠特默": "Whitmer", "沃伦": "Warren",
+                "黑利": "Haley", "戴明斯": "Demings",
+                "达克沃斯": "Duckworth"
+            };
+            return map[n] || n;
+        };
+
         if (id != 16) {
             if (modded) {
                 try {
                     yearbit = ree.election_json[findFromPK(ree.election_json, id)].fields.year
-                    lastnamebit = ree.candidate_json[findFromPK(ree.candidate_json, campaignTrail_temp.candidate_id)].fields.last_name
-                    veeplastname = ree.candidate_json[findFromPK(ree.candidate_json, campaignTrail_temp.running_mate_id)].fields.last_name
+                    lastnamebit = fixName(ree.candidate_json[findFromPK(ree.candidate_json, campaignTrail_temp.candidate_id)].fields.last_name)
+                    veeplastname = fixName(ree.candidate_json[findFromPK(ree.candidate_json, campaignTrail_temp.running_mate_id)].fields.last_name)
                 } catch {}
                 real = realityCheck(cand, running_mate, ree)
 
@@ -1650,10 +1662,10 @@ function divideElectoralVotesProp(e, t) {
                 }
                 return baseScenarioDict[yearbit]
             } else {
-                return campaignTrail_temp.election_json[findFromPK(campaignTrail_temp.election_json, id)].fields.year + "_" + campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, cand)].fields.last_name + "_" + campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, running_mate)].fields.last_name + ".html"
+                return campaignTrail_temp.election_json[findFromPK(campaignTrail_temp.election_json, id)].fields.year + "_" + fixName(campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, cand)].fields.last_name) + "_" + fixName(campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, running_mate)].fields.last_name) + ".html"
             }
         } else if (id == 16) {
-            return "2016a_" + campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, cand)].fields.last_name + "_" + campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, running_mate)].fields.last_name + ".html"
+            return "2016a_" + fixName(campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, cand)].fields.last_name) + "_" + fixName(campaignTrail_temp.candidate_json[findFromPK(campaignTrail_temp.candidate_json, running_mate)].fields.last_name) + ".html"
         }
     }
 

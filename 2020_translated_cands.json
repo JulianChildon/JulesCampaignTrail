@@ -1,0 +1,171 @@
+{
+  "candidates": {
+    "300": {
+      "first_name": "乔",
+      "last_name": "拜登",
+      "description": "<p>乔·拜登（Joe Biden）在民主党初选中起死回生，赢得了提名。并且在对抗现任总统唐纳德·特朗普的民调中似乎稍占优势。在这次竞选中，人们的情绪空前高涨，甚至比以往更加激动。拜登能否兑现他平息紧张局势的承诺，还是会被接踵而至的事件所淹没？</p>",
+      "electoral_victory_message": "<h3>恭喜！你赢得了2020年大选。</h3><p>也许结果比你预期的更加胶着和充满争议，但最终的胜利仍属于你。在经历了动荡的几年后，你能否帮助这个国家重新团结起来？或者你会从第一天起就被视为一只跛脚鸭——无法协调党内两大派系？时间会证明一切。</p>",
+      "electoral_loss_message": "<h3>遗憾！你在2020年大选中失利。</h3><p>在这样一场你的许多支持者都声称连民主本身都岌岌可危的选举之后，接下来会发生什么？或许该党在2024年需要走向一个截然不同的方向。至于你自己，看来你漫长而辉煌的政治生涯肯定已经画上了句号。</p>",
+      "no_electoral_majority_message": "<h3>遗憾！你在2020年大选中失利。</h3><p>在这样一场你的许多支持者都声称连民主本身都岌岌可危的选举之后，接下来会发生什么？或许该党在2024年需要走向一个截然不同的方向。至于你自己，看来你漫长而辉煌的政治生涯肯定已经画上了句号。</p>"
+    },
+    "301": {
+      "first_name": "唐纳德",
+      "last_name": "特朗普",
+      "description": "<p>唐纳德·特朗普总统以现任者的优势投入竞选，但似乎再次处于劣势地位。特朗普能否再次拼凑出获胜的联盟？这是否仍然是让他在2016年冲过终点线的那一个？疫情和“黑命贵”运动只会让他的任务更加复杂。</p>",
+      "electoral_victory_message": "<h3>恭喜！你赢得了2020年选举。</h3><p>连续第二次，许多分析人士认为你的胜利几乎不可能。但无论他们怎么说，你的“让美国再次伟大”议程显然得到了验证。接下来你将如何带领国家前进？</p>",
+      "electoral_loss_message": "<h3>遗憾！你输掉了2020年选举。</h3><p>在这场你的许多支持者声称民主本身岌岌可危的选举之后，现在会发生什么？许多分析人士认为，下次选举该党需要走一条完全不同的道路。至于你本人，你会接受这一结果坐以待毙，还是会为2024年的史诗级政治复出做准备？</p>",
+      "no_electoral_majority_message": "<h3>遗憾！你输掉了2020年选举。</h3><p>在这场你的许多支持者声称民主本身岌岌可危的选举之后，现在会发生什么？许多分析人士认为，下次选举该党需要走一条完全不同的道路。至于你本人，你会接受这一结果坐以待毙，还是会为2024年的史诗级政治复出做准备？</p>"
+    },
+    "302": {
+      "first_name": "乔",
+      "last_name": "乔根森",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "303": {
+      "first_name": "霍伊",
+      "last_name": "霍金斯/其他",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "304": {
+      "first_name": "卡玛拉",
+      "last_name": "哈里斯",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "305": {
+      "first_name": "苏珊",
+      "last_name": "赖斯",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "306": {
+      "first_name": "卡伦",
+      "last_name": "巴斯",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "307": {
+      "first_name": "格雷琴",
+      "last_name": "惠特默",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "308": {
+      "first_name": "伊丽莎白",
+      "last_name": "沃伦",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "309": {
+      "first_name": "迈克",
+      "last_name": "彭斯",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "310": {
+      "first_name": "妮基",
+      "last_name": "黑利",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "311": {
+      "first_name": "斯派克",
+      "last_name": "科恩",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "312": {
+      "first_name": "安吉拉",
+      "last_name": "沃克",
+      "description": "'",
+      "electoral_victory_message": "'",
+      "electoral_loss_message": "'",
+      "no_electoral_majority_message": "'"
+    },
+    "313": {
+      "first_name": "瓦尔",
+      "last_name": "戴明斯",
+      "description": " ",
+      "electoral_victory_message": " ",
+      "electoral_loss_message": " ",
+      "no_electoral_majority_message": " "
+    },
+    "314": {
+      "first_name": "塔米",
+      "last_name": "达克沃斯",
+      "description": " ",
+      "electoral_victory_message": " ",
+      "electoral_loss_message": " ",
+      "no_electoral_majority_message": " "
+    }
+  },
+  "running_mates": {
+    "200": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "201": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "210": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "209": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "202": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "203": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "204": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "205": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    },
+    "206": {
+      "first_name": "",
+      "last_name": "",
+      "description_as_running_mate": ""
+    }
+  }
+}

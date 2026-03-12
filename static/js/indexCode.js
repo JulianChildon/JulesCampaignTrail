@@ -788,18 +788,18 @@ open_first_gate = (e) => { // gate of opening
 
     menu_area.innerHTML = `
     <div class='prometh'>
-    <h3>Custom Theme Menu</h3>
-    <p>Background Image URL: <input id='background_url' placeholder='Link directly to the image.' /></p>
-    <p>Background Image Covers?: <input id='background_cover' type='checkbox' /></p>
-    <p>Banner Image URL (suggested dimensions: 1000x303): <input id='banner_url' placeholder='Link directly to the image.' /></p>
-    <p>Window Image URL (<b>OPTIONAL</b>, WILL LOOK BAD IF YOU DON'T KNOW WHAT YOU'RE DOING): <input id='window_url' placeholder='Link directly to the image.' /></p>
-    <p>Window Colouring: <input id='window_colour' type='color' /></p>
-    <p>Container Colouring: <input id='cont_colour' type='color' /></p>
-    <p>Title Colouring: <input id='title_colour' type='color' /></p>
-    <p>Text Colouring: <input id='text_colour' type='color' /></p>
-    <p>Override Mod Themes? (experimental): <input id='mod_override' type='checkbox' /></p>
+    <h3>自定义主题菜单</h3>
+    <p>背景图片 URL: <input id='background_url' placeholder='直接链接到图片。' /></p>
+    <p>背景图片是否铺满？ <input id='background_cover' type='checkbox' /></p>
+    <p>横幅图片 URL (建议尺寸 1000x303): <input id='banner_url' placeholder='直接链接到图片。' /></p>
+    <p>窗口图片 URL (<b>可选</b>, 不确定用法的话效果会很差): <input id='window_url' placeholder='直接链接到图片。' /></p>
+    <p>窗口颜色: <input id='window_colour' type='color' /></p>
+    <p>容器颜色: <input id='cont_colour' type='color' /></p>
+    <p>标题颜色: <input id='title_colour' type='color' /></p>
+    <p>文本颜色: <input id='text_colour' type='color' /></p>
+    <p>覆盖模组自带主题？ (实验性功能): <input id='mod_override' type='checkbox' /></p>
 
-    <button id='prometh_save'>Save</button>
+    <button id='prometh_save'>保存</button>
     </div>
     `
 
